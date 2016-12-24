@@ -22,7 +22,7 @@ All stats are computed from Qualifying matches only except where noted!
 
 **OPR**: OPR is the Offensive Power Rating, which estimates the offensive contribution a team makes taking into account its alliance partners but not its alliance opponents.
 
-**OPRm**: OPRm is the OPR computed using the MMSE method instead of the traditional least-squares method. This tends to do a better job of predicting match scores particularly for small tournament sizes or incomplete tournament results. It also tends to "regress towards the mean" so teams with OPRs well above average for a tournament will have slightly lower OPRms, and teams with OPRs well below average will have slightly higher OPRms.
+**OPRm**: OPRm is the OPR computed using the MMSE method instead of the traditional least-squares method. This tends to do a slightly better job of predicting match scores for future unknown matches, particularly for small tournament sizes or incomplete tournament results. It also tends to "regress towards the mean" so teams with OPRs well above average for a tournament will have slightly lower OPRms, and teams with OPRs well below average will have slightly higher OPRms.
 
 **OPR and OPRm**: computed for the official FTC score
 
