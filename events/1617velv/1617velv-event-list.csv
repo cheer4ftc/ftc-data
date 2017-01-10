@@ -65,9 +65,28 @@
 12/10/2016,Missouri Roboteer Cadets,Missouri,Meet,1,mo,m10,x,mom10,MO,D
 12/10/2016,Missouri Kicking it with the Mules,Missouri,Meet,1,mo,m11,x,mom11,MO,D
 12/10/2016,Missouri STLCC WILDWOOD BOTSHOW,Missouri,Meet,1,mo,m12,x,mom12,MO,D
+01/07/2017,Missouri St. Teresa's Academy,Missouri,Meet,1,mo,m13,x,mom13,MO,D
+01/14/2017,Missouri Botshow,Missouri,Meet,1,mo,m14,x,mom14,MO,D
+01/14/2017,Missouri Rocking Robotics,Missouri,Meet,1,mo,m15,x,mom15,MO,D
+01/18/2017,Missouri Mid MO,Missouri,Meet,1,mo,m16,x,mom16,MO,D
+01/21/2017,Missouri Bombers Joebotics,Missouri,Meet,1,mo,m17,x,mom17,MO,D
+01/22/2017,Missouri MIDCS,Missouri,Meet,1,mo,m18,x,mom18,MO,D
+01/28/2017,Missouri Girl Scouts,Missouri,Meet,1,mo,m19,x,mom19,MO,D
+01/28/2017,Missouri GHS,Missouri,Meet,1,mo,m20,x,mom20,MO,D
+01/28/2017,Missouri Olathe Northwest,Missouri,Meet,1,mo,m21,x,mom21,MO,D
+01/28/2017,Missouri Pattonville,Missouri,Meet,1,mo,m22,x,mom22,MO,D
+02/04/2017,Missouri Science Center,Missouri,Meet,1,mo,m23,x,mom23,MO,D
 12/03/2016,Missouri Florissant Valley,Missouri,Qualifying Tournament,1,mo,q1,x,moq1,MO,D
 12/10/2016,Missouri Smithville,Missouri,Qualifying Tournament,1,mo,q2,x,moq2,MO,D
 12/17/2016,Missouri Camdenton,Missouri,Qualifying Tournament,1,mo,q3,x,moq3,MO,D
+01/07/2017,Missouri Meramec,Missouri,Qualifying Tournament,1,mo,q4,x,moq4,MO,D
+01/21/2017,Missouri Blue Valley,Missouri,Qualifying Tournament,1,mo,q5,x,moq5,MO,D
+01/29/2017,Missouri SEMO,Missouri,Qualifying Tournament,1,mo,q6,x,moq6,MO,D
+02/11/2017,Missouri Selvidge,Missouri,Qualifying Tournament,1,mo,q7,x,moq7,MO,D
+02/18/2017,Missouri West Conference,Missouri,Qualifying Tournament,1,mo,cq1,x,mocq1,MO,D
+02/18/2017,Missouri East Conference,Missouri,Qualifying Tournament,1,mo,cq2,x,mocq2,MO,D
+03/04/2017,Missouri Championship,Missouri,Championship Tournament,1,mo,cmp,d1,mocmpd1,MO,D
+03/04/2017,Missouri Championship,Missouri,Championship Tournament,2,mo,cmp,d2,mocmpd2,MO,D
 12/10/2016,New York John Dewey #1,New York,Qualifying Tournament,1,ny,jd1,x,nyjd1,NY,R
 12/11/2016,New York John Dewey #2,New York,Qualifying Tournament,1,ny,jd2,x,nyjd2,NY,R
 10/29/2016,Oklahoma SWOSU Qualifier,Oklahoma,Qualifying Tournament,1,ok,sw,x,oksw,OK,R
@@ -87,6 +106,12 @@
 11/19/2016,Pennsylvania Eastern,Pennsylvania,Qualifying Tournament,1,pa,ea,x,paea,PA,D
 12/3/2016,Pennsylvania Pittsburgh Area,Pennsylvania,Qualifying Tournament,1,pa,pi,x,papi,PA,D
 12/10/2016,Pennsylvania Hat Tricks,Pennsylvania,Qualifying Tournament,1,pa,ht,x,paht,PA,D
+01/07/17,Pennsylvania Southeastern,Pennsylvania,Qualifying Tournament,1,pa,se,x,pase,PA,D
+01/14/17,Pennsylvania Southwestern,Pennsylvania,Qualifying Tournament,1,pa,sw,x,pasw,PA,D
+01/21/17,Pennsylvania South Central,Pennsylvania,Qualifying Tournament,1,pa,sc,x,pasc,PA,D
+01/28/17,Pennsylvania Philadelphia,Pennsylvania,Qualifying Tournament,1,pa,ph,x,paph,PA,D
+02/11/17,Pennsylvania Lehigh Valley,Pennsylvania,Qualifying Tournament,1,pa,lv,x,palv,PA,D
+02/25/17,Pennsylvania Championship,Pennsylvania,Championship Tournament,1,pa,cmp,x,pacmp,PA,D
 11/14/2016,Texas AML Clubs Meet 1,Texas,Meet,1,tx,amlc1,x,txamlc1,TX,R
 11/12/2016,Texas AML Diamonds Meet 1,Texas,Meet,1,tx,amld1,x,txamld1,TX,R
 11/14/2016,Texas AML Hearts Meet 1,Texas,Meet,1,tx,amlh1,x,txamlh1,TX,R
