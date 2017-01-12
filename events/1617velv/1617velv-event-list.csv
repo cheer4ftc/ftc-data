@@ -17,11 +17,8 @@
 12/11/2016,Andover HS Qualifier 1,Massachusetts,Qualifying Tournament,1,ma,an,x,maan,MA,D
 12/11/2016,Hudson Valley Red Hook Qualifying Tournament,New York - Hudson Valley,Qualifying Tournament,1,ny,rh,x,nyrh,NY,D
 12/13/2016,Interior Qualifying Tournamnet,Alaska,Qualifying Tournament,1,ak,in,x,akin,AK,D
-12/10/2016,Northern Qualifier Flowers Division,Virginia,Qualifying Tournament,1,va,no,d1,vanod1,VA,D
-12/10/2016,Northern Qualifier Kamen Division,Virginia,Qualifying Tournament,2,va,no,d2,vanod2,VA,D
-12/17/2016,Shenandoah Qualifier,Virginia,Qualifying Tournament,1,va,sh,x,vash,VA,D
 12/18/2016,FIRST Tech Challenge Dayton OH Qualifying Tournament,Ohio,Qualifying Tournament,1,oh,da,x,ohda,OH,D
-12/17/2016,Finger Lakes FIRST Tech Challenge Qualifying Tournament,New York - Excelsior,Qualifying Tournament,1,ny,fl,x,nyfl,NY,D
+12/17/2016,Finger Lakes FIRST Tech Challenge Qualifying Tournament,New York – Excelsior,Qualifying Tournament,1,ny,fl,x,nyfl,NY,D
 12/17/2016,Alamogordo FIRST Tech Challenge Qualifying Tournament,New Mexico,Qualifying Tournament,1,nm,al,x,nmal,NM,D
 12/17/2016,Mississippi FTC Vicksburg Qualifier,Mississippi,Qualifying Tournament,1,ms,vi,x,msvi,MS,D
 12/17/2016,Southeast Qualifying Tournament,Alaska,Qualifying Tournament,1,ak,se,x,akse,AK,D
@@ -133,26 +130,26 @@
 12/03/2016,Texas AML Diamonds Meet 2,Texas,Meet,1,tx,amld2,x,txamld2,TX,D
 12/03/2016,Texas AML Hearts Meet 2,Texas,Meet,1,tx,amlh2,x,txamlh2,TX,D
 12/03/2016,Texas AML Spades Meet 2,Texas,Meet,1,tx,amls2,x,txamls2,TX,D
-01/01/2017,Florida Middleton Madness,Florida,Meet,1,fl,mm,x,flmm,FL,R
-01/01/2017,Florida NEFL Match Play 1,Florida,Meet,1,fl,neflmp1,x,flneflmp1,FL,R
-01/01/2017,Florida Clearwater Meet 1,Florida,Meet,1,fl,cw1,x,flcw1,FL,R
-01/01/2017,Florida Palm Beach League - Meet 1a,Florida,Meet,1,fl,pbl1a,x,flpbl1a,FL,R
-01/01/2017,Florida Palm Beach League - Meet 1b,Florida,Meet,1,fl,pbl1b,x,flpbl1b,FL,R
-01/01/2017,Florida Palm Beach League - Meet 1c,Florida,Meet,1,fl,pbl1c,x,flpbl1c,FL,R
-01/01/2017,Florida Meet #1 Robots In Oz,Florida,Meet,1,fl,rio1,x,flrio1,FL,R
-01/01/2017,Florida South Florida League PantherRobotics,Florida,Meet,1,fl,sflpr,x,flsflpr,FL,R
-01/01/2017,Florida Space Coast League Meet #1,Florida,Meet,1,fl,scl1,x,flscl1,FL,R
-01/01/2017,Florida PHUHS Meet 2,Florida,Meet,1,fl,phu2,x,flphu2,FL,R
-01/01/2017,Florida ROBOT League Coleman Chaos,Florida,Meet,1,fl,rlcc,x,flrlcc,FL,R
-01/01/2017,Florida Space Coast League Meet #2,Florida,Meet,1,fl,scl2,x,flscl2,FL,R
-01/01/2017,Florida Tesla Meet #2,Florida,Meet,1,fl,te1,x,flte1,FL,R
-01/01/2017,Florida NEFL Matchplay 2,Florida,Meet,1,fl,neflmp2,x,flneflmp2,FL,R
-01/01/2017,Florida ROBOT League Keystone Prep Meet,Florida,Meet,1,fl,rlkp,x,flrlkp,FL,R
-01/01/2017,Florida Palm Beach League Meet 2-1,Florida,Meet,1,fl,pbl21,x,flpbl21,FL,R
-01/01/2017,Florida Palm Beach League Meet 2-2,Florida,Meet,1,fl,pbl22,x,flpbl22,FL,R
-01/01/2017,Florida PuntaGorda,Florida,Meet,1,fl,pg,x,flpg,FL,R
-01/01/2017,Florida South Florida Tournament 2,Florida,Meet,1,fl,sf2,x,flsf2,FL,R
-01/01/2017,Florida NEFL Meet 1,Florida,Meet,1,fl,neflmt1,x,flneflmt1,FL,R
+01/01/2017,Florida Middleton Madness,Florida,Meet,1,fl,mm,x,flmm,FL,F
+01/01/2017,Florida NEFL Match Play 1,Florida,Meet,1,fl,neflmp1,x,flneflmp1,FL,F
+01/01/2017,Florida Clearwater Meet 1,Florida,Meet,1,fl,cw1,x,flcw1,FL,F
+01/01/2017,Florida Palm Beach League - Meet 1a,Florida,Meet,1,fl,pbl1a,x,flpbl1a,FL,F
+01/01/2017,Florida Palm Beach League - Meet 1b,Florida,Meet,1,fl,pbl1b,x,flpbl1b,FL,F
+01/01/2017,Florida Palm Beach League - Meet 1c,Florida,Meet,1,fl,pbl1c,x,flpbl1c,FL,F
+01/01/2017,Florida Meet #1 Robots In Oz,Florida,Meet,1,fl,rio1,x,flrio1,FL,F
+01/01/2017,Florida South Florida League PantherRobotics,Florida,Meet,1,fl,sflpr,x,flsflpr,FL,F
+01/01/2017,Florida Space Coast League Meet #1,Florida,Meet,1,fl,scl1,x,flscl1,FL,F
+01/01/2017,Florida PHUHS Meet 2,Florida,Meet,1,fl,phu2,x,flphu2,FL,F
+01/01/2017,Florida ROBOT League Coleman Chaos,Florida,Meet,1,fl,rlcc,x,flrlcc,FL,F
+01/01/2017,Florida Space Coast League Meet #2,Florida,Meet,1,fl,scl2,x,flscl2,FL,F
+01/01/2017,Florida Tesla Meet #2,Florida,Meet,1,fl,te1,x,flte1,FL,F
+01/01/2017,Florida NEFL Matchplay 2,Florida,Meet,1,fl,neflmp2,x,flneflmp2,FL,F
+01/01/2017,Florida ROBOT League Keystone Prep Meet,Florida,Meet,1,fl,rlkp,x,flrlkp,FL,F
+01/01/2017,Florida Palm Beach League Meet 2-1,Florida,Meet,1,fl,pbl21,x,flpbl21,FL,F
+01/01/2017,Florida Palm Beach League Meet 2-2,Florida,Meet,1,fl,pbl22,x,flpbl22,FL,F
+01/01/2017,Florida PuntaGorda,Florida,Meet,1,fl,pg,x,flpg,FL,F
+01/01/2017,Florida South Florida Tournament 2,Florida,Meet,1,fl,sf2,x,flsf2,FL,F
+01/01/2017,Florida NEFL Meet 1,Florida,Meet,1,fl,neflmt1,x,flneflmt1,FL,F
 11/12/2016,Illinois Chicago Central 1,Illinois,Meet,1,il,cc1,x,ilcc1,IL,D
 11/05/2016,Illinois Chicago North 1,Illinois,Meet,1,il,cn1,x,ilcn1,IL,D
 11/19/2016,Illinois Chicago South 1,Illinois,Meet,1,il,cs1,x,ilcs1,IL,D
@@ -192,3 +189,33 @@
 02/12/2017,Illinois West League Qualifier,Illinois,Qualifying Tournament,1,il,wq,x,ilwq,IL,D
 02/18/2017,Illinois Chicago League Qualifier,Illinois,Qualifying Tournament,1,il,cq,x,ilcq,IL,D
 02/25/2017,Illinois State Championship,Illinois,Championship Tournament,1,il,cmp,x,ilcmp,IL,D
+12/10/2016,Virginia Northern D1,Virginia,Qualifying Tournament,1,va,nod1,1,vanod1,VA,D
+12/10/2016,Virginia Northern D2,Virginia,Qualifying Tournament,2,va,nod2,2,vanod2,VA,D
+12/17/2016,Virginia Shenandoah,Virginia,Qualifying Tournament,1,va,sh,x,vash,VA,D
+01/14/2017,Virginia North Central D1,Virginia,Qualifying Tournament,1,va,ncd1,1,vancd1,VA,D
+01/14/2017,Virginia North Central D2,Virginia,Qualifying Tournament,1,va,ncd2,2,vancd2,VA,D
+01/21/2017,Virginia Southwest,Virginia,Qualifying Tournament,1,va,sw,x,vasw,VA,D
+01/28/2017,Virginia Eastern D1,Virginia,Qualifying Tournament,1,va,ead1,1,vaead1,VA,D
+01/28/2017,Virginia Eastern D2,Virginia,Qualifying Tournament,1,va,ead2,2,vaead2,VA,D
+02/25/2017,Virginia Championship D1,Virginia,Championship,1,va,cmpd1,1,vacmpd1,VA,D
+02/25/2017,Virginia Championship D2,Virginia,Championship,2,va,cmpd2,2,vacmpd2,VA,D
+12/17/2016,California LA A1M1,California LA ,Meet,1,cala,a1m1,x,calaa1m1,CA,D
+12/04/2016,California LA A2M0,California LA ,Meet,1,cala,a2m0,x,calaa2m0,CA,D
+12/18/2016,California LA A2M1,California LA ,Meet,1,cala,a2m1,x,calaa2m1,CA,D
+02/08/2017,California LA A2M2,California LA ,Meet,1,cala,a2m2,x,calaa2m2,CA,D
+12/03/2016,California LA BM1,California LA ,Meet,1,cala,bm1,x,calabm1,CA,D
+12/17/2016,California LA BM2,California LA ,Meet,1,cala,bm2,x,calabm2,CA,D
+12/02/2016,California LA C1M0,California LA ,Meet,1,cala,c1m0,x,calac1m0,CA,D
+12/16/2016,California LA C1M1,California LA ,Meet,1,cala,c1m1,x,calac1m1,CA,D
+12/03/2016,California LA C2M0,California LA ,Meet,1,cala,c2m0,x,calac2m0,CA,D
+12/17/2016,California LA C2M1,California LA ,Meet,1,cala,c2m1,x,calac2m1,CA,D
+01/11/2017,California LA C2M2,California LA ,Meet,1,cala,c2m2,x,calac2m2,CA,D
+12/04/2016,California LA DM0,California LA ,Meet,1,cala,dm0,x,caladm0,CA,D
+12/18/2016,California LA DM1,California LA ,Meet,1,cala,dm1,x,caladm1,CA,D
+01/08/2017,California LA DM2,California LA ,Meet,1,cala,dm2,x,caladm2,CA,D
+12/02/2016,California LA EM0,California LA ,Meet,1,cala,em0,x,calaem0,CA,D
+12/16/2016,California LA EM1,California LA ,Meet,1,cala,em1,x,calaem1,CA,D
+12/03/2016,California LA F1M0,California LA ,Meet,1,cala,f1m0,x,calaf1m0,CA,D
+12/17/2016,California LA F1M1,California LA ,Meet,1,cala,f1m1,x,calaf1m1,CA,D
+01/07/2017,California LA F1M2,California LA ,Meet,1,cala,f1m2,x,calaf1m2,CA,D
+12/13/2016,California LA F3M1,California LA ,Meet,1,cala,f3m1,x,calaf3m1,CA,D
