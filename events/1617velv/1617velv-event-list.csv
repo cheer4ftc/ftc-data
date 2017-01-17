@@ -63,42 +63,6 @@
 01/21/2017,Minnesota North Branch 1,Minnesota,Qualifying Tournament,1,mn,nb1,x,mnnb1,MN,R
 01/22/2017,Minnesota North Branch 2,Minnesota,Qualifying Tournament,1,mn,nb2,x,mnnb2,MN,R
 02/10/2017,Minnesota Championship,Minnesota,Qualifying Tournament,1,mn,cmp,x,mncmp,MN,R
-10/29/2016,Missouri Octobo-Robo Fest,Missouri,Meet,1,mo,m1,x,mom1,MO,D
-11/5/2016,Missouri Vive Velocity Vortex!,Missouri,Meet,1,mo,m2,x,mom2,MO,D
-11/12/2016,Missouri Gator,Missouri,Meet,1,mo,m3,x,mom3,MO,D
-11/12/2016,Missouri Stover MO Robo Show,Missouri,Meet,1,mo,m4,x,mom4,MO,D
-11/15/2016,Missouri Eureka Meet,Missouri,Meet,1,mo,m5,x,mom5,MO,D
-11/19/2016,Missouri Pattonville High School,Missouri,Meet,1,mo,m6,x,mom6,MO,D
-11/19/2016,Missouri Turkey Day Meet,Missouri,Meet,1,mo,m7,x,mom7,MO,D
-12/03/2016,Missouri Engineering Zone Meet,Missouri,Meet,1,mo,m8,x,mom8,MO,D
-12/03/2016,Missouri NDHS Robofest,Missouri,Meet,1,mo,m9,x,mom9,MO,D
-12/10/2016,Missouri Roboteer Cadets,Missouri,Meet,1,mo,m10,x,mom10,MO,D
-12/10/2016,Missouri Kicking it with the Mules,Missouri,Meet,1,mo,m11,x,mom11,MO,D
-12/10/2016,Missouri STLCC WILDWOOD BOTSHOW,Missouri,Meet,1,mo,m12,x,mom12,MO,D
-01/07/2017,Missouri St. Teresa's Academy,Missouri,Meet,1,mo,m13,x,mom13,MO,D
-01/14/2017,Missouri Botshow,Missouri,Meet,1,mo,m14,x,mom14,MO,D
-01/14/2017,Missouri Rocking Robotics,Missouri,Meet,1,mo,m15,x,mom15,MO,D
-01/18/2017,Missouri Mid MO,Missouri,Meet,1,mo,m16,x,mom16,MO,D
-01/21/2017,Missouri Bombers Joebotics,Missouri,Meet,1,mo,m17,x,mom17,MO,D
-01/22/2017,Missouri MIDCS,Missouri,Meet,1,mo,m18,x,mom18,MO,D
-01/28/2017,Missouri Girl Scouts,Missouri,Meet,1,mo,m19,x,mom19,MO,D
-01/28/2017,Missouri GHS,Missouri,Meet,1,mo,m20,x,mom20,MO,D
-01/28/2017,Missouri Olathe Northwest,Missouri,Meet,1,mo,m21,x,mom21,MO,D
-01/28/2017,Missouri Pattonville,Missouri,Meet,1,mo,m22,x,mom22,MO,D
-02/04/2017,Missouri Science Center,Missouri,Meet,1,mo,m23,x,mom23,MO,D
-12/03/2016,Missouri Florissant Valley,Missouri,Qualifying Tournament,1,mo,q1,x,moq1,MO,D
-12/10/2016,Missouri Smithville,Missouri,Qualifying Tournament,1,mo,q2,x,moq2,MO,D
-12/17/2016,Missouri Camdenton,Missouri,Qualifying Tournament,1,mo,q3,x,moq3,MO,D
-01/07/2017,Missouri Meramec,Missouri,Qualifying Tournament,1,mo,q4,x,moq4,MO,D
-01/21/2017,Missouri Blue Valley,Missouri,Qualifying Tournament,1,mo,q5,x,moq5,MO,D
-01/29/2017,Missouri SEMO,Missouri,Qualifying Tournament,1,mo,q6,x,moq6,MO,D
-02/11/2017,Missouri Selvidge,Missouri,Qualifying Tournament,1,mo,q7,x,moq7,MO,D
-02/18/2017,Missouri West Conference,Missouri,Qualifying Tournament,1,mo,cq1,x,mocq1,MO,D
-02/18/2017,Missouri East Conference,Missouri,Qualifying Tournament,1,mo,cq2,x,mocq2,MO,D
-03/04/2017,Missouri Championship,Missouri,Championship Tournament,1,mo,cmp,d1,mocmpd1,MO,D
-03/04/2017,Missouri Championship,Missouri,Championship Tournament,2,mo,cmp,d2,mocmpd2,MO,D
-12/10/2016,New York John Dewey #1,New York,Qualifying Tournament,1,ny,jd1,x,nyjd1,NY,R
-12/11/2016,New York John Dewey #2,New York,Qualifying Tournament,1,ny,jd2,x,nyjd2,NY,R
 10/29/2016,Oklahoma SWOSU Qualifier,Oklahoma,Qualifying Tournament,1,ok,sw,x,oksw,OK,R
 11/12/2016,Oklahoma Gordon Cooper Qualifier,Oklahoma,Qualifying Tournament,1,ok,gc,x,okgc,OK,R
 11/19/2016,Oklahoma Bishop Kelley Qualifier,Oklahoma,Qualifying Tournament,1,ok,bk,x,okbk,OK,R
@@ -234,3 +198,43 @@
 12/13/2016,California LA F3M1,California LA ,Meet,1,cala,f3m1,x,calaf3m1,CA,D
 01/10/2017,California LA F3M2,California LA ,Meet,1,cala,f3m2,x,calaf3m2,CA,D
 01/23/2017,California LA F3M3,California LA ,Meet,1,cala,f3m3,x,calaf3m3,CA,D
+10/29/2016,Missouri Octobo-Robo Fest,Missouri,Meet,1,mo,m1,x,mom1,MO,D
+11/5/2016,Missouri Vive Velocity Vortex!,Missouri,Meet,1,mo,m2,x,mom2,MO,D
+11/12/2016,Missouri Gator,Missouri,Meet,1,mo,m3,x,mom3,MO,D
+11/12/2016,Missouri Stover MO Robo Show,Missouri,Meet,1,mo,m4,x,mom4,MO,D
+11/15/2016,Missouri Eureka Meet,Missouri,Meet,1,mo,m5,x,mom5,MO,D
+11/19/2016,Missouri Pattonville High School,Missouri,Meet,1,mo,m6,x,mom6,MO,D
+11/19/2016,Missouri Turkey Day Meet,Missouri,Meet,1,mo,m7,x,mom7,MO,D
+12/03/2016,Missouri Engineering Zone Meet,Missouri,Meet,1,mo,m8,x,mom8,MO,D
+12/03/2016,Missouri NDHS Robofest,Missouri,Meet,1,mo,m9,x,mom9,MO,D
+12/10/2016,Missouri Roboteer Cadets,Missouri,Meet,1,mo,m10,x,mom10,MO,D
+12/10/2016,Missouri Kicking it with the Mules,Missouri,Meet,1,mo,m11,x,mom11,MO,D
+12/10/2016,Missouri STLCC WILDWOOD BOTSHOW,Missouri,Meet,1,mo,m12,x,mom12,MO,D
+01/07/2017,Missouri St. Teresa's Academy,Missouri,Meet,1,mo,m13,x,mom13,MO,D
+01/14/2017,Missouri Botshow,Missouri,Meet,1,mo,m14,x,mom14,MO,D
+01/14/2017,Missouri Rocking Robotics,Missouri,Meet,1,mo,m15,x,mom15,MO,D
+01/18/2017,Missouri Mid MO,Missouri,Meet,1,mo,m16,x,mom16,MO,D
+01/21/2017,Missouri Bombers Joebotics,Missouri,Meet,1,mo,m17,x,mom17,MO,D
+01/22/2017,Missouri MIDCS,Missouri,Meet,1,mo,m18,x,mom18,MO,D
+01/28/2017,Missouri Girl Scouts,Missouri,Meet,1,mo,m19,x,mom19,MO,D
+01/28/2017,Missouri GHS,Missouri,Meet,1,mo,m20,x,mom20,MO,D
+01/28/2017,Missouri Olathe Northwest,Missouri,Meet,1,mo,m21,x,mom21,MO,D
+01/28/2017,Missouri Pattonville,Missouri,Meet,1,mo,m22,x,mom22,MO,D
+02/04/2017,Missouri Science Center,Missouri,Meet,1,mo,m23,x,mom23,MO,D
+12/03/2016,Missouri Florissant Valley,Missouri,Qualifying Tournament,1,mo,q1,x,moq1,MO,D
+12/10/2016,Missouri Smithville,Missouri,Qualifying Tournament,1,mo,q2,x,moq2,MO,D
+12/17/2016,Missouri Camdenton,Missouri,Qualifying Tournament,1,mo,q3,x,moq3,MO,D
+01/07/2017,Missouri Meramec,Missouri,Qualifying Tournament,1,mo,q4,x,moq4,MO,D
+01/21/2017,Missouri Blue Valley,Missouri,Qualifying Tournament,1,mo,q5,x,moq5,MO,D
+01/29/2017,Missouri SEMO,Missouri,Qualifying Tournament,1,mo,q6,x,moq6,MO,D
+02/11/2017,Missouri Selvidge,Missouri,Qualifying Tournament,1,mo,q7,x,moq7,MO,D
+02/18/2017,Missouri West Conference,Missouri,Qualifying Tournament,1,mo,cq1,x,mocq1,MO,D
+02/18/2017,Missouri East Conference,Missouri,Qualifying Tournament,1,mo,cq2,x,mocq2,MO,D
+03/04/2017,Missouri Championship,Missouri,Championship Tournament,1,mo,cmp,d1,mocmpd1,MO,D
+03/04/2017,Missouri Championship,Missouri,Championship Tournament,2,mo,cmp,d2,mocmpd2,MO,D
+12/10/2016,New York John Dewey #1,New York,Qualifying Tournament,1,ny,jd1,x,nyjd1,NY,D
+12/11/2016,New York John Dewey #2,New York,Qualifying Tournament,1,ny,jd2,x,nyjd2,NY,D
+01/14/2017,New York Francis Lewis #1,New York,Qualifying Tournament,1,ny,fl1,x,nyfl1,NY,D
+01/05/2017,New York Francis Lewis #2,New York,Qualifying Tournament,1,ny,fl2,x,nyfl2,NY,D
+02/18/2017,New York Dalton #1,New York,Qualifying Tournament,1,ny,da1,x,nyda1,NY,D
+02/19/2017,New York Dalton #2,New York,Qualifying Tournament,1,ny,da2,x,nyda2,NY,D
