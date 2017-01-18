@@ -31,6 +31,14 @@
 11/11/2016,Alaska Eagle River HS 2,Alaska,Qualifying Tournament,1,ak,er2,x,aker2,AK,R
 11/19/2016,Alaska Southcentral League Championship,Alaska,League Championship,1,ak,lcmpsc,x,aklcmpsc,AK,R
 12/17/2016,Alaska Southeast Qualifier,Alaska,Qualifying Tournament,1,ak,se,x,akse,AK,R
+12/10/2016,California SD La Jolla Country Day 1,California SD,Qualifying Tournament,1,casd,lj1,x,casdlj1,CASD,R
+12/10/2016,California SD Francis Parker 1,California SD,Qualifying Tournament,1,casd,fp1,x,casdfp1,CASD,R
+12/10/2016,California SD R Roger Rowe 1,California SD,Qualifying Tournament,1,casd,rr1,x,casdrr1,CASD,R
+12/10/2016,California SD Escondido Charter High,California SD,Qualifying Tournament,1,casd,ec,x,casdec,CASD,R
+01/07/2017,California SD La Jolla Country Day 2,California SD,Qualifying Tournament,1,casd,lj2,x,casdlj2,CASD,R
+01/07/2017,California SD R Roger Rowe 2,California SD,Qualifying Tournament,1,casd,rr2,x,casdrr2,CASD,R
+01/07/2017,California SD Francis Parker 2,California SD,Qualifying Tournament,1,casd,fp2,x,casdfp2,CASD,R
+01/07/2017,California SD SET High,California SD,Qualifying Tournament,1,casd,set,x,casdset,CASD,R
 12/17/2016,Indiana Indy South,Indiana,Qualifying Tournament,1,in,so,x,inso,IN,R
 11/12/2016,Hawaii Le Jardin,Hawaii,Qualifying Tournament,1,hi,lj,x,hilj,HI,D
 11/26/2016,Hawaii Mililani,Hawaii,Qualifying Tournament,1,hi,mi,x,himi,HI,D
@@ -94,6 +102,10 @@
 12/03/2016,Texas AML Diamonds Meet 2,Texas,Meet,1,tx,amld2,x,txamld2,TX,D
 12/03/2016,Texas AML Hearts Meet 2,Texas,Meet,1,tx,amlh2,x,txamlh2,TX,D
 12/03/2016,Texas AML Spades Meet 2,Texas,Meet,1,tx,amls2,x,txamls2,TX,D
+01/07/2017,Texas AML Clubs Meet 3,Texas,Meet,1,tx,amlc3,x,txamlc3,TX,D
+01/07/2017,Texas AML Diamonds Meet 3,Texas,Meet,1,tx,amld3,x,txamld3,TX,D
+01/07/2017,Texas AML Hearts Meet 3,Texas,Meet,1,tx,amlh3,x,txamlh3,TX,D
+01/07/2017,Texas AML Spades Meet 3,Texas,Meet,1,tx,amls3,x,txamls3,TX,D
 01/01/2017,Florida Middleton Madness,Florida,Meet,1,fl,mm,x,flmm,FL,F
 01/01/2017,Florida NEFL Match Play 1,Florida,Meet,1,fl,neflmp1,x,flneflmp1,FL,F
 01/01/2017,Florida Clearwater Meet 1,Florida,Meet,1,fl,cw1,x,flcw1,FL,F
