@@ -6,13 +6,15 @@ For some events, full match details are available. Stats for these events are in
 
 For other events, only match results without details are available. Stats for these events are in -StatsResults files.
 
-## Traditional FTC Ranking results
+## Tournament and Team information
 
 **TournamentCode**: seasonCode-regionCodeTournament. e.g., 1617velv-vash for Velocity Vortex, Virginia Shenandoah tournament 
 
 **TeamNum**: team number
 
 **TeamName**: team name
+
+## Traditional FTC Ranking results
 
 **R**: FTC Ranking in tournament
 
