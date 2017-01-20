@@ -8,7 +8,7 @@ For other events, only match results without details are available. Stats for th
 
 ## Traditional FTC Ranking results
 
-**TournamentCode**: seasonCode-stateCodeTournament. e.g., 1617velv-vash for Velocity Vortex, Virginia Shenandoah tournament 
+**TournamentCode**: seasonCode-regionCodeTournament. e.g., 1617velv-vash for Velocity Vortex, Virginia Shenandoah tournament 
 
 **TeamNum**: team number
 
