@@ -4,6 +4,9 @@ Data from FTC Events from various sources.
 
 Includes data from 1617velv and 1516resq seasons.
 
+For events where only final Match Results are available, the data is available in files ending with -MatchResults and -StatsResults.
+For events where full Match Details are available (i.e., breakdowns of autonomous, teleop, end game, and penalty scoring), the data is available in files ending with -MatchResultsDetails and -Stats.
+
 
 ## FTC Result Sites
 
