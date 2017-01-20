@@ -94,10 +94,10 @@
 01/28/2017,Pennsylvania Philadelphia,Pennsylvania,Qualifying Tournament,1,pa,ph,x,paph,PA,D
 02/11/2017,Pennsylvania Lehigh Valley,Pennsylvania,Qualifying Tournament,1,pa,lv,x,palv,PA,D
 02/25/2017,Pennsylvania Championship,Pennsylvania,Championship Tournament,1,pa,cmp,x,pacmp,PA,D
-11/14/2016,Texas AML Clubs Meet 1,Texas,Meet,1,tx,amlc1,x,txamlc1,TX,R
-11/12/2016,Texas AML Diamonds Meet 1,Texas,Meet,1,tx,amld1,x,txamld1,TX,R
-11/14/2016,Texas AML Hearts Meet 1,Texas,Meet,1,tx,amlh1,x,txamlh1,TX,R
-11/12/2016,Texas AML Spades Meet 1,Texas,Meet,1,tx,amls1,x,txamls1,TX,R
+11/14/2016,Texas AML Clubs Meet 1,Texas,Meet,1,tx,amlc1,x,txamlc1,TX,D
+11/12/2016,Texas AML Diamonds Meet 1,Texas,Meet,1,tx,amld1,x,txamld1,TX,D
+11/14/2016,Texas AML Hearts Meet 1,Texas,Meet,1,tx,amlh1,x,txamlh1,TX,D
+11/12/2016,Texas AML Spades Meet 1,Texas,Meet,1,tx,amls1,x,txamls1,TX,D
 12/03/2016,Texas AML Clubs Meet 2,Texas,Meet,1,tx,amlc2,x,txamlc2,TX,D
 12/03/2016,Texas AML Diamonds Meet 2,Texas,Meet,1,tx,amld2,x,txamld2,TX,D
 12/03/2016,Texas AML Hearts Meet 2,Texas,Meet,1,tx,amlh2,x,txamlh2,TX,D
@@ -129,6 +129,7 @@
 12/03/2016,West Virginia Championship,West Virginia,Championship Tournament,1,wv,cmp,x,wvcmp,WV,R
 12/03/2017,Virginia Central Flowers,Virginia,Qualifying Tournament,1,va,ced1,1,vaced1,VA,R
 12/03/2017,Virginia Central Kamen,Virginia,Qualifying Tournament,2,va,ced2,2,vaced2,VA,R
+12/17/2016,California LA F2M1,California LA ,Meet,1,cala,f2m1,x,calaf2m1,CA,R
 11/12/2016,Illinois Chicago Central 1,Illinois,Meet,1,il,cc1,x,ilcc1,IL,D
 11/05/2016,Illinois Chicago North 1,Illinois,Meet,1,il,cn1,x,ilcn1,IL,D
 11/19/2016,Illinois Chicago South 1,Illinois,Meet,1,il,cs1,x,ilcs1,IL,D
@@ -207,7 +208,6 @@
 12/17/2016,California LA F1M1,California LA ,Meet,1,cala,f1m1,x,calaf1m1,CA,D
 01/07/2017,California LA F1M2,California LA ,Meet,1,cala,f1m2,x,calaf1m2,CA,D
 01/21/2017,California LA F1M3,California LA ,Meet,1,cala,f1m3,x,calaf1m3,CA,D
-12/17/2016,California LA F2M1,California LA ,Meet,1,cala,f2m1,x,calaf2m1,CA,D
 01/07/2017,California LA F2M2,California LA ,Meet,1,cala,f2m2,x,calaf2m2,CA,D
 01/21/2017,California LA F2M3,California LA ,Meet,1,cala,f2m3,x,calaf2m3,CA,D
 12/13/2016,California LA F3M1,California LA ,Meet,1,cala,f3m1,x,calaf3m1,CA,D
