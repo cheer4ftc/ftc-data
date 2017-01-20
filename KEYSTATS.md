@@ -26,7 +26,7 @@ For other events, only match results without details are available. Stats for th
 
 ## Offensive Power Rating estimates
 
-**OPR**: OPR is the Offensive Power Rating, which estimates the offensive contribution a team makes taking into account its alliance partners but not its alliance opponents.
+**OPR**: OPR is the Offensive Power Rating, which estimates the offensive contribution a team makes taking into account its alliance partners but not its alliance opponents. The OPR model estimates offensive contributions as being the sum of the contributions of both members of the alliance. This is a reasonable model for some game aspects where both teams can score relatively independently (e.g., particle scoring in Velocity Vortex) but is a poor model for other game aspects where only one scoring objective can be accomplished by the alliance (e.g., cap ball scoring or autonomous beacon pressing in Velocity Vortex).
 
 **OPRm**: OPRm is the OPR computed using the MMSE method instead of the traditional least-squares method. This tends to do a slightly better job of predicting match scores for future unknown matches, particularly for small tournament sizes or incomplete tournament results. It also tends to "regress towards the mean" so teams with OPRs well above average for a tournament will have slightly lower OPRms, and teams with OPRs well below average will have slightly higher OPRms.
 
