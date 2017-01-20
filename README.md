@@ -16,4 +16,4 @@ Includes data from 1617velv and 1516resq seasons.
 
 ## 2016-17 season
 
-- Contains over 18 states.
+- Contains results from 25 states as of 1/19/17
