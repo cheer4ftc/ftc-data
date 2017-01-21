@@ -10,11 +10,11 @@ For events where full Match Details are available (i.e., breakdowns of autonomou
 
 ## FTC Result Sites
 
-- [FTCRoot](http://www.ftcroot.com)
+- [FTCRoot](http://www.ftcroot.com) :
     FTC team search + results
-- [FTCStats](http://ftcstats.org/)
+- [FTCStats](http://ftcstats.org/) :
     Ranks teams by scores from all regions
-- [Missouri FTC Scores](http://moftcscores.net/)
+- [Missouri FTC Scores](http://moftcscores.net/) :
     A much more comprehensive results website for the Missouri region only
 
 ## 2016-17 season
