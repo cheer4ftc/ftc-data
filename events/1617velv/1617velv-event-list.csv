@@ -75,17 +75,30 @@
 10/29/2016,Oklahoma SWOSU Qualifier,Oklahoma,Qualifying Tournament,1,ok,sw,x,oksw,OK,R
 11/12/2016,Oklahoma Gordon Cooper Qualifier,Oklahoma,Qualifying Tournament,1,ok,gc,x,okgc,OK,R
 11/19/2016,Oklahoma Bishop Kelley Qualifier,Oklahoma,Qualifying Tournament,1,ok,bk,x,okbk,OK,R
-11/15/2016,Oregon Columbia Basin A Meet 1,Oregon,Meet,1,or,cba,x,orcba,OR,R
-11/15/2016,Oregon Columbia Basin B Meet 1,Oregon,Meet,1,or,cbb,x,orcbb,OR,R
-11/19/2016,Oregon Beaverton Meet 1,Oregon,Meet,1,or,be1,x,orbe1,OR,R
-11/19/2016,Oregon Hillsboro A Meet 1,Oregon,Meet,1,or,ha1,x,orha1,OR,R
-11/19/2016,Oregon Hillsboro B Meet 1,Oregon,Meet,1,or,hb1,x,orhb1,OR,R
-11/17/2016,Oregon Central Meet 1,Oregon,Meet,1,or,ce1,x,orce1,OR,R
-11/17/2016,Oregon Mid Columbia,Oregon,Meet,1,or,mc1,x,ormc1,OR,R
-11/19/2016,Oregon Capitol Meet 1,Oregon,Meet,1,or,ca1,x,orca1,OR,R
-11/19/2016,Oregon Mid-Western Meet 1,Oregon,Meet,1,or,mw1,x,ormw1,OR,R
-11/19/2016,Oregon SOAR,Oregon,Meet,1,or,soar,x,orsoar,OR,R
-11/17/2016,Oregon Portland,Oregon,Meet,1,or,po,x,orpo,OR,R
+11/19/2016,Oregon Beaverton 1,Oregon,Meet,1,or,be1,x,orbe1,OR,R
+12/03/2016,Oregon Beaverton 2,Oregon,Meet,1,or,be2,x,orbe2,OR,R
+11/19/2016,Oregon Capitol 1,Oregon,Meet,1,or,ca1,x,orca1,OR,R
+12/03/2016,Oregon Capitol 2,Oregon,Meet,1,or,ca2,x,orca2,OR,R
+11/17/2016,Oregon Central 1,Oregon,Meet,1,or,ce1,x,orce1,OR,R
+12/01/2016,Oregon Central 2,Oregon,Meet,1,or,ce2,x,orce2,OR,R
+11/15/2016,Oregon Columbia Basin A 1,Oregon,Meet,1,or,cba1,x,orcba1,OR,R
+11/29/2016,Oregon Columbia Basin A 2,Oregon,Meet,1,or,cba2,x,orcba2,OR,R
+12/13/2016,Oregon Columbia Basin A 3,Oregon,Meet,1,or,cba3,x,orcba3,OR,R
+11/15/2016,Oregon Columbia Basin B 1,Oregon,Meet,1,or,cbb1,x,orcbb1,OR,R
+11/29/2016,Oregon Columbia Basin B 2,Oregon,Meet,1,or,cbb2,x,orcbb2,OR,R
+12/13/2016,Oregon Columbia Basin B 3,Oregon,Meet,1,or,cbb3,x,orcbb3,OR,R
+11/19/2016,Oregon Hillsboro A 1,Oregon,Meet,1,or,ha1,x,orha1,OR,R
+11/19/2016,Oregon Hillsboro B 1,Oregon,Meet,1,or,hb1,x,orhb1,OR,R
+11/17/2016,Oregon Mid Columbia 1,Oregon,Meet,1,or,mc1,x,ormc1,OR,R
+12/01/2016,Oregon Mid Columbia 2,Oregon,Meet,1,or,mc2,x,ormc2,OR,R
+11/19/2016,Oregon Mid-Western 1,Oregon,Meet,1,or,mw1,x,ormw1,OR,R
+12/10/2016,Oregon Mid-Western 2,Oregon,Meet,1,or,mw2,x,ormw2,OR,R
+12/10/2016,Oregon Mid-Western 3,Oregon,Meet,1,or,mw3,x,ormw3,OR,R
+11/17/2016,Oregon Portland 1,Oregon,Meet,1,or,po1,x,orpo1,OR,R
+12/02/2016,Oregon Portland 2,Oregon,Meet,1,or,po2,x,orpo2,OR,R
+11/19/2016,Oregon SOAR 1,Oregon,Meet,1,or,so1,x,orso1,OR,R
+12/10/2016,Oregon SOAR 2,Oregon,Meet,1,or,so2,x,orso2,OR,R
+12/10/2016,Oregon SOAR 3,Oregon,Meet,1,or,so3,x,orso3,OR,R
 11/19/2016,Pennsylvania Eastern,Pennsylvania,Qualifying Tournament,1,pa,ea,x,paea,PA,D
 12/3/2016,Pennsylvania Pittsburgh Area,Pennsylvania,Qualifying Tournament,1,pa,pi,x,papi,PA,D
 12/10/2016,Pennsylvania Hat Tricks,Pennsylvania,Qualifying Tournament,1,pa,ht,x,paht,PA,D
