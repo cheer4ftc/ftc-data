@@ -126,10 +126,6 @@
 01/07/2017,Texas AML Spades Meet 3,Texas,Meet,1,tx,amls3,x,txamls3,TX,D
 01/21/2017,Texas AML Spades-Diamonds Championship,Texas,Championship Tournament,1,tx,sdcmp,x,txsdcmp,TX,D
 01/21/2017,Texas AML Clubs-Hearts Championship,Texas,Championship Tournament,1,tx,chcmp,x,txchcmp,TX,D
-12/03/2016,Florida TBTA 2,Florida,Meet,1,fl,tbta2,x,fltbta2,FL,F
-12/03/2016,Florida ROBOT Coleman Chaos,Florida,Meet,1,fl,rcc,x,flrcc,FL,F
-12/03/2016,Florida Spacecoast 2,Florida,Meet,1,fl,sc2,x,flsc2,FL,F
-01/07/2017,Florida Tesla 3,Florida,Meet,1,fl,t3,x,flt3,FL,F
 12/03/2016,West Virginia Championship,West Virginia,Championship Tournament,1,wv,cmp,x,wvcmp,WV,R
 12/03/2016,Virginia Central D1,Virginia,Qualifying Tournament,1,va,ced1,1,vaced1,VA,R
 12/03/2016,Virginia Central D2,Virginia,Qualifying Tournament,2,va,ced2,2,vaced2,VA,R
@@ -263,28 +259,12 @@
 02/18/2017,New York Dalton #1,New York,Qualifying Tournament,1,ny,da1,x,nyda1,NY,D
 02/19/2017,New York Dalton #2,New York,Qualifying Tournament,1,ny,da2,x,nyda2,NY,D
 02/25/2017,Florida Championship,Florida,Championship,1,fl,cmp,x,flcmp,FL,D
-11/05/2016,Florida ROBOT Middleton Madness,Florida,Meet,1,fl,rmm,x,flrmm,FL,D
-12/17/2016,Florida ROBOT Keystone Kinetics,Florida,Meet,1,fl,rkk,x,flrkk,FL,D
-01/14/2017,Florida ROBOT League Championship,Florida,League Championship,1,fl,rlcmp,x,flrlcmp,FL,D
-11/12/2016,Florida TBTA 1,Florida,Meet,1,fl,tbta1,x,fltbta1,FL,D
-12/17/2016,Florida TBTA 3,Florida,Meet,1,fl,tbta3,x,fltbta3,FL,D
-01/21/2017,Florida TBTA League Championship,Florida,League Championship,1,fl,tbtalcmp,x,fltbtalcmp,FL,D
-01/28/2017,Florida TBTA ROBOT League Championship 2,Florida,League Championship,1,fl,tbrlcmp,x,fltbrlcmp,FL,D
-11/19/2016,Florida South Panther Robotics,Florida,Meet,1,fl,spr,x,flspr,FL,D
-12/17/2016,Florida South Cypress Bay,Florida,Meet,1,fl,scb,x,flscb,FL,D
-01/28/2017,Florida South League Championship,Florida,League Championship,1,fl,slcmp,x,flslcmp,FL,D
-11/09/2016,Florida NEFL Match Play 1,Florida,Meet,1,fl,nemp1,x,flnemp1,FL,D
-12/02/2016,Florida NEFL Match Play 2,Florida,Meet,1,fl,nemp2,x,flnemp2,FL,D
 12/17/2016,Florida NEFL 1,Florida,Meet,1,fl,ne1,x,flne1,FL,D
 01/07/2017,Florida NEFL 2,Florida,Meet,1,fl,ne2,x,flne2,FL,D
-01/10/2017,Florida NEFL Match Play 3,Florida,Meet,1,fl,nemp3,x,flnemp3,FL,D
 01/21/2017,Florida NEFL League Championship,Florida,League Championship,1,fl,nelcmp,x,flnelcmp,FL,D
-11/19/2016,Florida Spacecoast 1,Florida,Meet,1,fl,sc1,x,flsc1,FL,D
-01/14/2017,Florida Spacecoast 3,Florida,Meet,1,fl,sc3,x,flsc3,FL,D
-01/28/2017,Florida Spacecoast League Championship,Florida,League Championship,1,fl,sclcmp,x,flsclcmp,FL,D
-11/13/2016,Florida Tesla 1,Florida,Meet,1,fl,t1,x,flt1,FL,D
-12/04/2016,Florida Tesla 2,Florida,Meet,1,fl,t2,x,flt2,FL,D
-01/28/2017,Florida Tesla League Championship,Florida,League Championship,1,fl,tlcmp,x,fltlcmp,FL,D
+11/09/2016,Florida NEFL Match Play 1,Florida,Meet,1,fl,nemp1,x,flnemp1,FL,D
+12/02/2016,Florida NEFL Match Play 2,Florida,Meet,1,fl,nemp2,x,flnemp2,FL,D
+01/10/2017,Florida NEFL Match Play 3,Florida,Meet,1,fl,nemp3,x,flnemp3,FL,D
 11/12/2016,Florida Palm Beach 1a,Florida,Meet,1,fl,pb1a,x,flpb1a,FL,D
 11/12/2016,Florida Palm Beach 1b,Florida,Meet,1,fl,pb1b,x,flpb1b,FL,D
 11/12/2016,Florida Palm Beach 1c,Florida,Meet,1,fl,pb1c,x,flpb1c,FL,D
@@ -292,3 +272,23 @@
 12/17/2016,Florida Palm Beach 2b,Florida,Meet,1,fl,pb2b,x,flpb2b,FL,D
 01/07/2017,Florida Palm Beach 3,Florida,Meet,1,fl,pb3,x,flpb3,FL,D
 01/28/2017,Florida Palm Beach League Championship,Florida,League Championship,1,fl,pblcmp,x,flpblcmp,FL,D
+12/03/2016,Florida ROBOT Coleman Chaos,Florida,Meet,1,fl,rcc,x,flrcc,FL,D
+12/17/2016,Florida ROBOT Keystone Kinetics,Florida,Meet,1,fl,rkk,x,flrkk,FL,D
+01/14/2017,Florida ROBOT League Championship,Florida,League Championship,1,fl,rlcmp,x,flrlcmp,FL,D
+11/05/2016,Florida ROBOT Middleton Madness,Florida,Meet,1,fl,rmm,x,flrmm,FL,D
+12/17/2016,Florida South Cypress Bay,Florida,Meet,1,fl,scb,x,flscb,FL,D
+01/28/2017,Florida South League Championship,Florida,League Championship,1,fl,slcmp,x,flslcmp,FL,D
+11/19/2016,Florida South Panther Robotics,Florida,Meet,1,fl,spr,x,flspr,FL,D
+11/19/2016,Florida Spacecoast 1,Florida,Meet,1,fl,sc1,x,flsc1,FL,D
+12/03/2016,Florida Spacecoast 2,Florida,Meet,1,fl,sc2,x,flsc2,FL,D
+01/14/2017,Florida Spacecoast 3,Florida,Meet,1,fl,sc3,x,flsc3,FL,D
+01/28/2017,Florida Spacecoast League Championship,Florida,League Championship,1,fl,sclcmp,x,flsclcmp,FL,D
+11/12/2016,Florida TBTA 1,Florida,Meet,1,fl,tbta1,x,fltbta1,FL,D
+12/03/2016,Florida TBTA 2,Florida,Meet,1,fl,tbta2,x,fltbta2,FL,D
+12/17/2016,Florida TBTA 3,Florida,Meet,1,fl,tbta3,x,fltbta3,FL,D
+01/21/2017,Florida TBTA League Championship,Florida,League Championship,1,fl,tbtalcmp,x,fltbtalcmp,FL,D
+01/28/2017,Florida TBTA ROBOT League Championship 2,Florida,League Championship,1,fl,tbrlcmp,x,fltbrlcmp,FL,D
+11/13/2016,Florida Tesla 1,Florida,Meet,1,fl,t1,x,flt1,FL,D
+12/04/2016,Florida Tesla 2,Florida,Meet,1,fl,t2,x,flt2,FL,D
+01/07/2017,Florida Tesla 3,Florida,Meet,1,fl,t3,x,flt3,FL,D
+01/28/2017,Florida Tesla League Championship,Florida,League Championship,1,fl,tlcmp,x,fltlcmp,FL,D
