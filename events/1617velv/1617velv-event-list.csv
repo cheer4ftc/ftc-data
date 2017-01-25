@@ -1,14 +1,10 @@
 11/5/2016,Duct-Ties & Zip-Tape Qualifier,Georgia,Qualifying Tournament,1,ga,dz,x,gadz,GA,D
-11/6/2016,Redwood City FTC QT ,California - NorCal,Qualifying Tournament,1,ca,rc,x,carc,CA,D
 11/12/2016,Jungle Rumble Qualifier,Georgia,Qualifying Tournament,1,ga,jr,x,gajr,GA,D
-11/20/2016,Saratoga FTC QT,California - NorCal,Qualifying Tournament,1,ca,sa,x,casa,CA,D
 12/3/2016,Flagstaff FIRST Tech Challenge Qualifying Tournament,Arizona,Qualifying Tournament,1,az,fl,x,azfl,AZ,D
 12/3/2016,Arkansas State Championship,Arkansas,Championship Tournament,1,ar,cmp,x,arcmp,AR,D
-12/3/2016,Alameda FTC QT,California - NorCal,Qualifying Tournament,1,ca,al,x,caal,CA,D
 12/3/2016,Mississippi FTC Gulf Coast Qualifier,Mississippi,Qualifying Tournament,1,ms,gc,x,msgc,MS,D
 12/3/2016,FIRST Tech Challenge Newark OH Qualifying Tournament (Central OH),Ohio,Qualifying Tournament,1,oh,ne,x,ohne,OH,D
 12/3/2016,Park City Qualifier ,Utah,Qualifying Tournament,1,ut,pc,x,utpc,UT,D
-12/4/2016,San Jose FTC QT - The Play Space,California - NorCal,Qualifying Tournament,1,ca,sj,x,casj,CA,D
 12/4/2016,Canton High School Qualifier,Massachusetts,Qualifying Tournament,1,ma,ca,x,maca,MA,D
 12/4/2016,Robo-CATastrophe VI Qualifier ,New Jersey,Qualifying Tournament,1,nj,rc,x,njrc,NJ,D
 12/10/2016,Anchorage/Mat-Su Qualifier II,Alaksa,Qualifying Tournament,1,ak,an,x,akan,AK,D
@@ -31,6 +27,21 @@
 11/11/2016,Alaska Eagle River HS 2,Alaska,Qualifying Tournament,1,ak,er2,x,aker2,AK,R
 11/19/2016,Alaska Southcentral League Championship,Alaska,League Championship,1,ak,lcmpsc,x,aklcmpsc,AK,R
 12/17/2016,Alaska Southeast Qualifier,Alaska,Qualifying Tournament,1,ak,se,x,akse,AK,R
+11/6/2016,California NorCal Redwood City,California NC,Qualifying Tournament,1,canc,rc,x,cancrc,CANC,D
+11/20/2016,California NorCal Saratoga,California NC,Qualifying Tournament,1,canc,sa,x,cancsa,CANC,D
+12/3/2016,California NorCal Alameda,California NC,Qualifying Tournament,1,canc,al,x,cancal,CANC,D
+12/4/2016,California NorCal Play Space,California NC,Qualifying Tournament,1,canc,ps,x,cancps,CANC,D
+12/10/2016,California NorCal Google,California NC,Qualifying Tournament,1,canc,go,x,cancgo,CANC,D
+12/11/2016,California NorCal Burlingame,California NC,Qualifying Tournament,1,canc,bu1,x,cancbu1,CANC,D
+01/08/2017,California NorCal Carmichael,California NC,Qualifying Tournament,1,canc,ca,x,cancca,CANC,D
+01/14/2017,California NorCal San Jose,California NC,Qualifying Tournament,1,canc,sj,x,cancsj,CANC,D
+01/15/2017,California NorCal GitHub,California NC,Qualifying Tournament,1,canc,gh,x,cancgh,CANC,D
+01/21/2017,California NorCal Walnut Creek,California NC,Qualifying Tournament,1,canc,wc,x,cancwc,CANC,D
+01/21/2017,California NorCal Roseville,California NC,Qualifying Tournament,1,canc,ro,x,cancro,CANC,D
+01/28/2017,California NorCal Cisco,California NC,Qualifying Tournament,1,canc,ci,x,cancci,CANC,D
+01/29/2017,California NorCal Intel Folsom,California NC,Qualifying Tournament,1,canc,if,x,cancif,CANC,D
+02/04/2017,California NorCal Daly City,California NC,Qualifying Tournament,1,canc,dc,x,cancdc,CANC,D
+02/18/2017,California NorCal Championship,California NC,Championship Tournament,1,canc,cmp,x,canccmp,CANC,D
 12/10/2016,California SD La Jolla Country Day 1,California SD,Qualifying Tournament,1,casd,lj1,x,casdlj1,CASD,R
 12/10/2016,California SD Francis Parker 1,California SD,Qualifying Tournament,1,casd,fp1,x,casdfp1,CASD,R
 12/10/2016,California SD R Roger Rowe 1,California SD,Qualifying Tournament,1,casd,rr1,x,casdrr1,CASD,R
