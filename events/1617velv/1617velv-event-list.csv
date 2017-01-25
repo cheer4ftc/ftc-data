@@ -57,23 +57,6 @@
 11/12/2016,Hawaii Le Jardin,Hawaii,Qualifying Tournament,1,hi,lj,x,hilj,HI,D
 11/26/2016,Hawaii Mililani,Hawaii,Qualifying Tournament,1,hi,mi,x,himi,HI,D
 01/21/2017,Louisiana New Orleans,Louisiana,Qualifying Tournament,1,la,no,x,lano,LA,R
-11/5/2016,Michigan Big Rapids,Michigan,Qualifying Tournament,1,mi,br,x,mibr,MI,R
-11/5/2016,Michigan Canton,Michigan,Qualifying Tournament,1,mi,ca,x,mica,MI,R
-11/12/2016,Michigan Great Lake Bay,Michigan,Qualifying Tournament,1,mi,gl,x,migl,MI,R
-11/12/2016,Michigan Petoskey,Michigan,Qualifying Tournament,1,mi,pe,x,mipe,MI,R
-11/19/2016,Michigan Frog Force,Michigan,Qualifying Tournament,1,mi,ff,x,miff,MI,R
-11/19/2016,Michigan Marysville,Michigan,Qualifying Tournament,1,mi,mary,x,mimary,MI,R
-11/19/2016,Michigan Mason,Michigan,Qualifying Tournament,1,mi,mas,x,mimas,MI,R
-12/03/2016,Michigan Allendale,Michigan,Qualifying Tournament,1,mi,al,x,mial,MI,R
-12/03/2016,Michigan Howell,Michigan,Qualifying Tournament,1,mi,ho,x,miho,MI,R
-12/03/2016,Michigan Sunset Coast Splash,Michigan,Qualifying Tournament,1,mi,scs,x,miscs,MI,R
-12/03/2016,Michigan The G.R.A.Y.T Kettering,Michigan,Qualifying Tournament,1,mi,gk,x,migk,MI,R
-12/10/2016,Michigan Bedford FTC Qualifier,Michigan,Qualifying Tournament,1,mi,be,x,mibe,MI,R
-12/10/2016,Michigan Concord FTC Qualifier,Michigan,Qualifying Tournament,1,mi,co,x,mico,MI,R
-12/10/2016,Michigan Kentwood FTC Qualifier,Michigan,Qualifying Tournament,1,mi,kent,x,mikent,MI,R
-12/10/2016,Michigan Detroit FTC Qualifier,Michigan,Qualifying Tournament,1,mi,det,x,midet,MI,R
-12/17/2016,Michigan State Championship Edison,Michigan,Championship Tournament,1,mi,cmp,d1,micmpd1,MI,R
-12/17/2016,Michigan State Championship Franklin,Michigan,Championship Tournament,2,mi,cmp,d2,micmpd2,MI,R
 11/12/2016,Minnesota Eagan,Minnesota,Qualifying Tournament,1,mn,ea,x,mnea,MN,R
 11/19/2016,Minnesota Eden Prairie 1,Minnesota,Qualifying Tournament,1,mn,ep1,x,mnep1,MN,R
 11/20/2016,Minnesota Eden Prairie 2,Minnesota,Qualifying Tournament,1,mn,ep2,x,mnep2,MN,R
@@ -181,7 +164,7 @@
 02/11/2017,Illinois North League Qualifier,Illinois,Qualifying Tournament,1,il,nq,x,ilnq,IL,D
 02/12/2017,Illinois West League Qualifier,Illinois,Qualifying Tournament,1,il,wq,x,ilwq,IL,D
 02/18/2017,Illinois Chicago League Qualifier,Illinois,Qualifying Tournament,1,il,cq,x,ilcq,IL,D
-02/25/2017,Illinois State Championship,Illinois,Championship Tournament,1,il,cmp,x,ilcmp,IL,D
+02/25/2017,Illinois State Championship,Illinois,Championship,1,il,cmp,x,ilcmp,IL,D
 12/10/2016,Virginia Northern D1,Virginia,Qualifying Tournament,1,va,nod1,1,vanod1,VA,D
 12/10/2016,Virginia Northern D2,Virginia,Qualifying Tournament,2,va,nod2,2,vanod2,VA,D
 12/17/2016,Virginia Shenandoah,Virginia,Qualifying Tournament,1,va,sh,x,vash,VA,D
@@ -262,8 +245,8 @@
 02/11/2017,Missouri Selvidge,Missouri,Qualifying Tournament,1,mo,q7,x,moq7,MO,D
 02/18/2017,Missouri West Conference,Missouri,Qualifying Tournament,1,mo,cq1,x,mocq1,MO,D
 02/18/2017,Missouri East Conference,Missouri,Qualifying Tournament,1,mo,cq2,x,mocq2,MO,D
-03/04/2017,Missouri Championship,Missouri,Championship Tournament,1,mo,cmp,d1,mocmpd1,MO,D
-03/04/2017,Missouri Championship,Missouri,Championship Tournament,2,mo,cmp,d2,mocmpd2,MO,D
+03/04/2017,Missouri Championship,Missouri,Championship,1,mo,cmp,d1,mocmpd1,MO,D
+03/04/2017,Missouri Championship,Missouri,Championship,2,mo,cmp,d2,mocmpd2,MO,D
 12/10/2016,New York John Dewey #1,New York,Qualifying Tournament,1,ny,jd1,x,nyjd1,NY,D
 12/11/2016,New York John Dewey #2,New York,Qualifying Tournament,1,ny,jd2,x,nyjd2,NY,D
 01/14/2017,New York Francis Lewis #1,New York,Qualifying Tournament,1,ny,fl1,x,nyfl1,NY,D
@@ -306,3 +289,20 @@
 01/28/2017,Florida Tesla League Championship,Florida,League Championship,1,fl,tlcmp,x,fltlcmp,FL,D
 01/21/2017,Alabama Championship,Alabama,Championship,1,al,cmp,x,alcmp,AL,D
 01/14/2017,Mississippi Flowood,Mississippi,Qualifying Tournament,1,ms,fl,x,msfl,MS,D
+11/5/2016,Michigan Big Rapids,Michigan,Qualifying Tournament,1,mi,br,x,mibr,MI,D
+11/5/2016,Michigan Canton,Michigan,Qualifying Tournament,1,mi,ca,x,mica,MI,D
+11/12/2016,Michigan Great Lake Bay,Michigan,Qualifying Tournament,1,mi,gl,x,migl,MI,D
+11/12/2016,Michigan Petoskey,Michigan,Qualifying Tournament,1,mi,pe,x,mipe,MI,D
+11/19/2016,Michigan Novi,Michigan,Qualifying Tournament,1,mi,no,x,mino,MI,D
+11/19/2016,Michigan Marysville,Michigan,Qualifying Tournament,1,mi,mary,x,mimary,MI,D
+11/19/2016,Michigan Mason,Michigan,Qualifying Tournament,1,mi,mas,x,mimas,MI,D
+12/03/2016,Michigan Allendale,Michigan,Qualifying Tournament,1,mi,al,x,mial,MI,D
+12/03/2016,Michigan Howell,Michigan,Qualifying Tournament,1,mi,ho,x,miho,MI,D
+12/03/2016,Michigan Coloma,Michigan,Qualifying Tournament,1,mi,col,x,micol,MI,D
+12/03/2016,Michigan Kettering,Michigan,Qualifying Tournament,1,mi,ket,x,miket,MI,D
+12/10/2016,Michigan Bedford,Michigan,Qualifying Tournament,1,mi,be,x,mibe,MI,D
+12/10/2016,Michigan Concord,Michigan,Qualifying Tournament,1,mi,con,x,micon,MI,D
+12/10/2016,Michigan Kentwood,Michigan,Qualifying Tournament,1,mi,kent,x,mikent,MI,D
+12/10/2016,Michigan Detroit,Michigan,Qualifying Tournament,1,mi,det,x,midet,MI,D
+12/17/2016,Michigan Championship Edison,Michigan,Championship,1,mi,cmp,d1,micmpd1,MI,D
+12/17/2016,Michigan Championship Franklin,Michigan,Championship,2,mi,cmp,d2,micmpd2,MI,D
