@@ -181,6 +181,7 @@
 12/17/2016,California LA A1 M1,California LA ,Meet,1,cala,a1m1,x,cala-a1m1,CA,D
 01/07/2017,California LA A1 M1,California LA ,Meet,1,cala,a1m2,x,cala-a1m2,CA,D
 01/21/2017,California LA A1 M3,California LA ,Meet,1,cala,a1m3,x,cala-a1m3,CA,D
+02/05/2017,California LA A1 A2 ILT,California LA ,Meet,1,cala,a1a2ilt,x,cala-a1a2ilt,CA,D
 12/04/2016,California LA A2 M0,California LA ,Meet,1,cala,a2m0,x,cala-a2m0,CA,D
 12/18/2016,California LA A2 M1,California LA ,Meet,1,cala,a2m1,x,cala-a2m1,CA,D
 01/08/2017,California LA A2 M2,California LA ,Meet,1,cala,a2m2,x,cala-a2m2,CA,D
@@ -188,10 +189,12 @@
 12/03/2016,California LA B M1,California LA ,Meet,1,cala,bm1,x,cala-bm1,CA,D
 12/17/2016,California LA B M2,California LA ,Meet,1,cala,bm2,x,cala-bm2,CA,D
 01/14/2017,California LA B M3,California LA ,Meet,1,cala,bm3,x,cala-bm3,CA,D
+01/28/2017,California LA B E ILT,California LA ,Meet,1,cala,beilt,x,cala-beilt,CA,D
 12/02/2016,California LA C1 M0,California LA ,Meet,1,cala,c1m0,x,cala-c1m0,CA,D
 12/16/2016,California LA C1 M1,California LA ,Meet,1,cala,c1m1,x,cala-c1m1,CA,D
 01/14/2017,California LA C1 M2,California LA ,Meet,1,cala,c1m2,x,cala-c1m2,CA,D
 01/28/2017,California LA C1 M3,California LA ,Meet,1,cala,c1m3,x,cala-c1m3,CA,D
+02/12/2017,California LA C1 C2 ILT,California LA ,Meet,1,cala,c1c2ilt,x,cala-c1c2ilt,CA,D
 12/03/2016,California LA C2 M0,California LA ,Meet,1,cala,c2m0,x,cala-c2m0,CA,D
 12/17/2016,California LA C2 M1,California LA ,Meet,1,cala,c2m1,x,cala-c2m1,CA,D
 01/11/2017,California LA C2 M2,California LA ,Meet,1,cala,c2m2,x,cala-c2m2,CA,D
@@ -200,6 +203,7 @@
 12/18/2016,California LA D M1,California LA ,Meet,1,cala,dm1,x,cala-dm1,CA,D
 01/08/2017,California LA D M2,California LA ,Meet,1,cala,dm2,x,cala-dm2,CA,D
 01/22/2017,California LA D M3,California LA ,Meet,1,cala,dm3,x,cala-dm3,CA,D
+02/12/2017,California LA D I ILT,California LA ,Meet,1,cala,diilt,x,cala-diilt,CA,D
 12/02/2016,California LA E M0,California LA ,Meet,1,cala,em0,x,cala-em0,CA,D
 12/16/2016,California LA E M1,California LA ,Meet,1,cala,em1,x,cala-em1,CA,D
 01/13/2017,California LA E M2,California LA ,Meet,1,cala,em2,x,cala-em2,CA,D
@@ -208,6 +212,7 @@
 12/17/2016,California LA F1 M1,California LA ,Meet,1,cala,f1m1,x,cala-f1m1,CA,D
 01/07/2017,California LA F1 M2,California LA ,Meet,1,cala,f1m2,x,cala-f1m2,CA,D
 01/21/2017,California LA F1 M3,California LA ,Meet,1,cala,f1m3,x,cala-f1m3,CA,D
+02/04/2017,California LA F1 F2 F3 ILT,California LA ,Meet,1,cala,f1f2f3ilt,x,cala-f1f2f3ilt,CA,D
 01/07/2017,California LA F2 M2,California LA ,Meet,1,cala,f2m2,x,cala-f2m2,CA,D
 01/21/2017,California LA F2 M3,California LA ,Meet,1,cala,f2m3,x,cala-f2m3,CA,D
 12/13/2016,California LA F3 M1,California LA ,Meet,1,cala,f3m1,x,cala-f3m1,CA,D
