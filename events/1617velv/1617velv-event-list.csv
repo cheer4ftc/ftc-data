@@ -143,8 +143,6 @@
 01/21/2017,Texas AML Spades-Diamonds Championship,Texas AL,Championship Tournament,1,txal,sdcmp,x,txal-sdcmp,TX,D
 01/21/2017,Texas AML Clubs-Hearts Championship,Texas AL,Championship Tournament,1,txal,chcmp,x,txal-chcmp,TX,D
 12/03/2016,West Virginia Championship,West Virginia,Championship Tournament,1,wv,cmp,x,wv-cmp,WV,R
-12/03/2016,Virginia Central D1,Virginia,Qualifying Tournament,1,va,ced1,1,va-ced1,VA,R
-12/03/2016,Virginia Central D2,Virginia,Qualifying Tournament,2,va,ced2,2,va-ced2,VA,R
 12/17/2016,California LA F2 M1,California LA ,Meet,1,cala,f2m1,x,cala-f2m1,CA,R
 01/15/2017,Indiana NorWestIn,Indiana,Qualifying Tournament,1,in,nw,x,in-nw,IN,R
 11/12/2016,Illinois Chicago Central M1,Illinois,Meet,1,il,cc1,x,il-cc1,IL,D
@@ -186,6 +184,8 @@
 02/12/2017,Illinois West League Qualifier,Illinois,Qualifying Tournament,1,il,wq,x,il-wq,IL,D
 02/18/2017,Illinois Chicago League Qualifier,Illinois,Qualifying Tournament,1,il,cq,x,il-cq,IL,D
 02/25/2017,Illinois State Championship,Illinois,Championship,1,il,cmp,x,il-cmp,IL,D
+12/03/2016,Virginia Central D1,Virginia,Qualifying Tournament,1,va,ced1,1,va-ced1,VA,D
+12/03/2016,Virginia Central D2,Virginia,Qualifying Tournament,2,va,ced2,2,va-ced2,VA,D
 12/10/2016,Virginia Northern D1,Virginia,Qualifying Tournament,1,va,nod1,1,va-nod1,VA,D
 12/10/2016,Virginia Northern D2,Virginia,Qualifying Tournament,2,va,nod2,2,va-nod2,VA,D
 12/17/2016,Virginia Shenandoah,Virginia,Qualifying Tournament,1,va,sh,x,va-sh,VA,D
