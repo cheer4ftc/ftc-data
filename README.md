@@ -19,4 +19,4 @@ For events where full Match Details are available (i.e., breakdowns of autonomou
 
 ## 2016-17 season
 
-- Contains results from 25 states as of 1/19/17
+- Contains results from 41 regions and 379 events as of 1/31/17
