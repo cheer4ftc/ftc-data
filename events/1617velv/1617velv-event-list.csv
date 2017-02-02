@@ -117,36 +117,11 @@
 01/21/2017,North Carolina Boone,North Carolina,Qualifying Tournament,1,nc,bo,x,nc-bo,NC,D
 01/28/2017,North Carolina Southern Guilford,North Carolina,Qualifying Tournament,1,nc,sg,x,nc-sg,NC,D
 01/28/2017,North Carolina Durham,North Carolina,Qualifying Tournament,1,nc,du,x,nc-du,NC,D
-11/19/2016,Oregon Beaverton 1,Oregon,Meet,1,or,be1,x,or-be1,OR,R
-12/03/2016,Oregon Beaverton 2,Oregon,Meet,1,or,be2,x,or-be2,OR,R
-11/19/2016,Oregon Capitol 1,Oregon,Meet,1,or,ca1,x,or-ca1,OR,R
-11/17/2016,Oregon Central 1,Oregon,Meet,1,or,ce1,x,or-ce1,OR,R
-12/01/2016,Oregon Central 2,Oregon,Meet,1,or,ce2,x,or-ce2,OR,R
-11/15/2016,Oregon Columbia Basin A 1,Oregon,Meet,1,or,cba1,x,or-cba1,OR,R
-11/29/2016,Oregon Columbia Basin A 2,Oregon,Meet,1,or,cba2,x,or-cba2,OR,R
-12/13/2016,Oregon Columbia Basin A 3,Oregon,Meet,1,or,cba3,x,or-cba3,OR,R
-11/15/2016,Oregon Columbia Basin B 1,Oregon,Meet,1,or,cbb1,x,or-cbb1,OR,R
-11/29/2016,Oregon Columbia Basin B 2,Oregon,Meet,1,or,cbb2,x,or-cbb2,OR,R
-12/13/2016,Oregon Columbia Basin B 3,Oregon,Meet,1,or,cbb3,x,or-cbb3,OR,R
-11/19/2016,Oregon Hillsboro A 1,Oregon,Meet,1,or,ha1,x,or-ha1,OR,R
-11/19/2016,Oregon Hillsboro B 1,Oregon,Meet,1,or,hb1,x,or-hb1,OR,R
-11/17/2016,Oregon Mid Columbia 1,Oregon,Meet,1,or,mc1,x,or-mc1,OR,R
-12/01/2016,Oregon Mid Columbia 2,Oregon,Meet,1,or,mc2,x,or-mc2,OR,R
-11/19/2016,Oregon Mid-Western 1,Oregon,Meet,1,or,mw1,x,or-mw1,OR,R
-12/10/2016,Oregon Mid-Western 2,Oregon,Meet,1,or,mw2,x,or-mw2,OR,R
-12/10/2016,Oregon Mid-Western 3,Oregon,Meet,1,or,mw3,x,or-mw3,OR,R
+11/19/2016,Oregon SOAR 1,Oregon,Meet,1,or,so1,x,or-so1,OR,R
 11/17/2016,Oregon Portland 1,Oregon,Meet,1,or,po1,x,or-po1,OR,R
 12/02/2016,Oregon Portland 2,Oregon,Meet,1,or,po2,x,or-po2,OR,R
-11/19/2016,Oregon SOAR 1,Oregon,Meet,1,or,so1,x,or-so1,OR,R
-12/10/2016,Oregon SOAR 2,Oregon,Meet,1,or,so2,x,or-so2,OR,R
-12/10/2016,Oregon SOAR 3,Oregon,Meet,1,or,so3,x,or-so3,OR,R
+01/06/2017,Oregon Portland 3,Oregon,Meet,1,or,po3,x,or-po3,OR,R
 01/21/2017,Oregon Portland and Beaverton ILT,Oregon,League Championship,1,or,pbilt,x,or-pbilt,OR,R
-02/11/2017,Oregon Super Qualifier I,Oregon,Super Qualifier,1,or,sq1,x,or-sq1,OR,R
-02/12/2017,Oregon Super Qualifier II,Oregon,Super Qualifier,1,or,sq2,x,or-sq2,OR,R
-02/11/2017,Oregon Super Qualifier III,Oregon,Super Qualifier,1,or,sq3,x,or-sq3,OR,R
-02/12/2017,Oregon Super Qualifier IV,Oregon,Super Qualifier,1,or,sq4,x,or-sq4,OR,R
-02/26/2017,Oregon Championship D1,Oregon,Championship Tournament,1,or,cmpd1,x,or-cmpd1,OR,R
-02/26/2017,Oregon Championship D2,Oregon,Championship Tournament,1,or,cmpd2,x,or-cmpd2,OR,R
 11/19/2016,Pennsylvania Eastern,Pennsylvania,Qualifying Tournament,1,pa,ea,x,pa-ea,PA,D
 12/03/2016,Pennsylvania Pittsburgh Area,Pennsylvania,Qualifying Tournament,1,pa,pi,x,pa-pi,PA,D
 12/10/2016,Pennsylvania Hat Tricks,Pennsylvania,Qualifying Tournament,1,pa,ht,x,pa-ht,PA,D
@@ -366,7 +341,34 @@
 01/21/2017,Oregon Central,Oregon,Qualifying Tournament,1,or,ce,x,or-ce,OR,D
 01/21/2017,Oregon Columbia Basin ILT,Oregon,League Championship,1,or,cbilt,x,or-cbilt,OR,D
 01/21/2017,Oregon Hillsboro,Oregon,Qualifying Tournament,1,or,hb,x,or-hb,OR,D
-01/21/2017,Oregon SOAR and Mid-Western ILT,Oregon,League Championship,1,or,smilt,x,or-smilt,OR,D
+01/21/2017,Oregon SOAR and Mid Western ILT,Oregon,League Championship,1,or,smilt,x,or-smilt,OR,D
 01/22/2017,Oregon Hood River,Oregon,Qualifying Tournament,1,or,hr,x,or-hr,OR,D
 01/28/2017,Oregon OSU1,Oregon,Qualifying Tournament,1,or,osu1,x,or-osu1,OR,D
 01/29/2017,Oregon OSU2,Oregon,Qualifying Tournament,1,or,osu2,x,or-osu2,OR,D
+11/19/2016,Oregon Beaverton 1,Oregon,Meet,1,or,be1,x,or-be1,OR,D
+12/03/2016,Oregon Beaverton 2,Oregon,Meet,1,or,be2,x,or-be2,OR,D
+11/19/2016,Oregon Capitol 1,Oregon,Meet,1,or,ca1,x,or-ca1,OR,D
+12/03/2016,Oregon Capitol 2,Oregon,Meet,1,or,ca2,x,or-ca2,OR,D
+11/17/2016,Oregon Central 1,Oregon,Meet,1,or,ce1,x,or-ce1,OR,D
+12/01/2016,Oregon Central 2,Oregon,Meet,1,or,ce2,x,or-ce2,OR,D
+11/15/2016,Oregon Columbia Basin A 1,Oregon,Meet,1,or,cba1,x,or-cba1,OR,D
+11/29/2016,Oregon Columbia Basin A 2,Oregon,Meet,1,or,cba2,x,or-cba2,OR,D
+12/13/2016,Oregon Columbia Basin A 3,Oregon,Meet,1,or,cba3,x,or-cba3,OR,D
+11/15/2016,Oregon Columbia Basin B 1,Oregon,Meet,1,or,cbb1,x,or-cbb1,OR,D
+11/29/2016,Oregon Columbia Basin B 2,Oregon,Meet,1,or,cbb2,x,or-cbb2,OR,D
+12/13/2016,Oregon Columbia Basin B 3,Oregon,Meet,1,or,cbb3,x,or-cbb3,OR,D
+11/19/2016,Oregon Hillsboro A 1,Oregon,Meet,1,or,ha1,x,or-ha1,OR,D
+11/19/2016,Oregon Hillsboro B 1,Oregon,Meet,1,or,hb1,x,or-hb1,OR,D
+11/17/2016,Oregon Mid Columbia 1,Oregon,Meet,1,or,mc1,x,or-mc1,OR,D
+12/01/2016,Oregon Mid Columbia 2,Oregon,Meet,1,or,mc2,x,or-mc2,OR,D
+11/19/2016,Oregon Mid Western 1,Oregon,Meet,1,or,mw1,x,or-mw1,OR,D
+12/10/2016,Oregon Mid Western 2,Oregon,Meet,1,or,mw2,x,or-mw2,OR,D
+12/10/2016,Oregon Mid Western 3,Oregon,Meet,1,or,mw3,x,or-mw3,OR,D
+12/10/2016,Oregon SOAR 2,Oregon,Meet,1,or,so2,x,or-so2,OR,D
+12/10/2016,Oregon SOAR 3,Oregon,Meet,1,or,so3,x,or-so3,OR,D
+02/11/2017,Oregon Super Qualifier I,Oregon,Super Qualifier,1,or,sq1,x,or-sq1,OR,D
+02/12/2017,Oregon Super Qualifier II,Oregon,Super Qualifier,1,or,sq2,x,or-sq2,OR,D
+02/11/2017,Oregon Super Qualifier III,Oregon,Super Qualifier,1,or,sq3,x,or-sq3,OR,D
+02/12/2017,Oregon Super Qualifier IV,Oregon,Super Qualifier,1,or,sq4,x,or-sq4,OR,D
+02/26/2017,Oregon Championship D1,Oregon,Championship Tournament,1,or,cmpd1,x,or-cmpd1,OR,D
+02/26/2017,Oregon Championship D2,Oregon,Championship Tournament,1,or,cmpd2,x,or-cmpd2,OR,D
