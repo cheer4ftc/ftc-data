@@ -75,6 +75,15 @@
 01/08/2017,Iowa Nevada League Championship,Iowa,League Championship,1,io,nlcmp,x,io-nlcmp,IO,D
 01/28/2017,Utah Southern,Utah,Qualifying Tournament,1,ut,so,x,ut-so,UT,D
 01/14/2017,Nebraska Championship,Nebraska,Championship Tournament,1,ne,cmp,x,ne-cmp,NE,D
+12/14/2016,Connecticut Mountain Matchup,Connecticut,Qualifying Tournament,1,ct,mm,x,ct-mm,CT,D
+01/21/2017,Texas SE Last Chance,Texas SE,Qualifying Tournament,1,txse,lc,x,txse-lc,TX,D
+01/29/2017,New Jersey Snow Day Showdown X,New Jersey,Qualifying Tournament,1,nj,sds,x,nj-sds,NJ,D
+01/21/2017,Maryland Anapolis 1,Maryland,Qualifying Tournament,1,md,an1,x,md-an1,MD,D
+01/21/2017,New York HV Yonkers,New York HV,Qualifying Tournament,1,nyhv,yo,x,nyhv-yo,NY,D
+01/21/2017,Georgia CircuitRunners,Georgia,Qualifying Tournament,1,ga,cr,x,ga-cr,GA,D
+01/28/2017,New York LI Syosset ,New York LI,Qualifying Tournament,1,nyli,sy,x,nyli-sy,NY,D
+01/29/2017,New York EX Corning,New York EX,Qualifying Tournament,1,nyex,co,x,nyex-co,NY,D
+01/14/2017,Oklahoma Muskogee,Oklahoma,Qualifying Tournament,1,ok,musk,x,ok-musk,OK,D
 10/21/2016,Alaska East Anchorage,Alaska,Qualifying Tournament,1,ak,ea,x,ak-ea,AK,R
 10/28/2016,Alaska Dimond,Alaska,Qualifying Tournament,1,ak,di,x,ak-di,AK,R
 11/01/2016,Alaska East,Alaska,Qualifying Tournament,1,ak,ea2,x,ak-ea2,AK,R
@@ -109,7 +118,6 @@
 01/21/2017,California SD Boys and Girls Club,California SD,Qualifying Tournament,1,casd,bg,x,casd-bg,CA,R
 01/22/2017,California SD Pacific Ridge,California SD,Qualifying Tournament,1,casd,pr,x,casd-pr,CA,R
 01/22/2017,California SD Master Dei,California SD,Qualifying Tournament,1,casd,md,x,casd-md,CA,R
-12/14/2016,Connecticut Mountain Matchup,Connecticut,Qualifying Tournament,1,ct,mm,x,ct-mm,CT,R
 11/12/2016,Hawaii Le Jardin,Hawaii,Qualifying Tournament,1,hi,lj,x,hi-lj,HI,D
 11/26/2016,Hawaii Mililani,Hawaii,Qualifying Tournament,1,hi,mi,x,hi-mi,HI,D
 02/10/2017,Minnesota Championship,Minnesota,Qualifying Tournament,1,mn,cmp,x,mn-cmp,MN,R
@@ -317,6 +325,7 @@
 01/28/2017,Florida Tesla League Championship,Florida,League Championship,1,fl,tlcmp,x,fl-tlcmp,FL,D
 01/21/2017,Alabama Championship,Alabama,Championship,1,al,cmp,x,al-cmp,AL,D
 01/14/2017,Mississippi Flowood,Mississippi,Qualifying Tournament,1,ms,fl,x,ms-fl,MS,D
+01/28/2017,Mississippi Oxford,Mississippi,Qualifying Tournament,1,ms,ox,x,ms-ox,MS,D
 11/05/2016,Michigan Big Rapids,Michigan,Qualifying Tournament,1,mi,br,x,mi-br,MI,D
 11/05/2016,Michigan Canton,Michigan,Qualifying Tournament,1,mi,ca,x,mi-ca,MI,D
 11/12/2016,Michigan Great Lake Bay,Michigan,Qualifying Tournament,1,mi,gl,x,mi-gl,MI,D
