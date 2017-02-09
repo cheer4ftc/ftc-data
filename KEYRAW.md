@@ -1,4 +1,4 @@
-# Key for ftc-data MatchResultsRaw file
+# Key for ftc-data Raw files, including the overall MatchResultsRaw file
 
 Not all events are in the raw file. However all events in the raw file are either in MatchResults or MatchResultsDetails.
 
