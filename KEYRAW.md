@@ -2,10 +2,7 @@
 
 Not all events are in the raw file. However all events in the raw file are either in MatchResults or MatchResultsDetails.
 
-Here are indexes that make it easier to understand.
-# Indexes
-
-### This is not complete!!!
+# Indices
 
 **[00] TournamentCode + Match code**: seasonCode-regionCodeTournament. e.g., 1617velv-va-sh for Velocity Vortex, Virginia, Shenandoah tournament
 
@@ -17,8 +14,8 @@ Here are indexes that make it easier to understand.
 **[30] [44] Moved Cap Ball**: TRUE or FALSE  
 **[31] [45] Balls Scored into CenterVortex**  
 **[32] [46] Balls Scored into CornerVortex**  
-**[33] [47] Robot1 Parked**: 1 (Partly on Center), 2 (Completely on Center), 3 (Partly on Corner Vortex), 4 (Completely on Corner Vortex)
-**[34] [48] Robot2 Parked**: 1 (Partly on Center), 2 (Completely on Center), 3 (Partly on Corner Vortex), 4 (Completely on Corner Vortex)
+**[33] [47] Robot1 Parked**: 1 (Partly on Center), 2 (Completely on Center), 3 (Partly on Corner Vortex), 4 (Completely on Corner Vortex)  
+**[34] [48] Robot2 Parked**: 1 (Partly on Center), 2 (Completely on Center), 3 (Partly on Corner Vortex), 4 (Completely on Corner Vortex)  
 #### TeleOp  
 **[35] [49] Beacons scored at end of Teleop**: 0 - 4  
 **[36] [50] Balls Scored into CenterVortex**  
