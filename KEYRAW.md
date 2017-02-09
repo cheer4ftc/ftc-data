@@ -2,7 +2,11 @@
 
 Not all events are in the raw file. However all events in the raw file are either in MatchResults or MatchResultsDetails.
 
-# Indices
+# Column Contents
+
+The Raw format roughly follows the scoring system matches.txt output format, described briefly [here](https://www.reddit.com/r/FTC/comments/5ieth5/help_is_there_a_way_to_pull_surrogate_matches_out/db7twa1/?st=iyytjh6o&sh=6dfa0f8d).
+
+Specific columns contents are:
 
 **[00] TournamentCode + Match code**: seasonCode-regionCodeTournament. e.g., 1617velv-va-sh for Velocity Vortex, Virginia, Shenandoah tournament
 
