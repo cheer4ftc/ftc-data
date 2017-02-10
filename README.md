@@ -7,7 +7,7 @@ Includes 1617velv and 1516resq seasons.
 For events where only final Match Results are available, the data is available in files ending with -MatchResults and -StatsRes.
 For events where full Match Details are available (i.e., breakdowns of autonomous, teleop, end game, and penalty scoring), the data is available in files ending with -MatchResultsDetails and -StatsDet.
 
-See KEYSTATS.md and KEYRAW.md for more descriptive analyses of the corresponding file formats.
+See KEYSTATS.md and KEYRAW.md for descriptions of the corresponding file formats.
 
 ## FTC Result Sites
 
