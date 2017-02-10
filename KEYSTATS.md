@@ -2,9 +2,9 @@
 
 All stats are computed from Qualifying matches only except where noted!
 
-For some events, full match details are available. Stats for these events are in -Stats files.
+For some events, full match details are available. Stats for these events are in -StatsDet files.
 
-For other events, only match results without details are available. Stats for these events are in -StatsResults files.
+For other events, only match results without details are available. Stats for these events are in -StatsRes files.
 
 ## Tournament and Team information
 
