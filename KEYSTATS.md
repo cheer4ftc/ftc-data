@@ -8,7 +8,7 @@ For other events, only match results without details are available. Stats for th
 
 ## Tournament and Team information
 
-**TournamentCode**: seasonCode-regionCodeTournament. e.g., 1617velv-vash for Velocity Vortex, Virginia Shenandoah tournament 
+**TournamentCode**: seasonCode-regionCode-event. e.g., 1617velv-va-sh for Velocity Vortex, Virginia Shenandoah event 
 
 **TeamNum**: team number
 
