@@ -87,6 +87,21 @@
 02/04/2017,Ohio Kent State,Ohio,Qualifying Tournament,1,oh,ks,x,oh-ks,OH,D
 01/28/2017,Wisconsin Fox Valley,Wisconsin,Qualifying Tournament,1,wi,fv,x,wi-fv,WI,D
 02/04/2017,Texas AL Apollo League Championship,Texas AL,League Championship,1,txal,aplcmp,x,txal-aplcmp,TX,D
+02/04/2017,Texas AL Laredo League Championship,Texas AL,League Championship,1,txal,lalcmp,x,txal-lalcmp,TX,D
+02/04/2017,Indiana E3,Indiana,Qualifying Tournament,1,in,e3,x,in-e3,IN,D
+02/04/2017,Washington Championship,Washington,Championship Tournament,1,wa,cmp,x,wa-cmp,WA,D
+12/11/2016,Maryland District of Columbia 2,Maryland,Qualifying Tournament,1,md,dc2,x,md-dc2,MD,D
+02/04/2017,Maryland Prince George,Maryland,Qualifying Tournament,1,md,pg,x,md-pg,MD,D
+01/22/2017,Maryland Annapolis 2,Maryland,Qualifying Tournament,1,md,an2,x,md-an2,MD,D
+01/29/2017,Maryland Howard,Maryland,Qualifying Tournament,1,md,ho,x,md-ho,MD,D
+01/28/2017,Arizona Chandler,Arizona,Qualifying Tournament,1,az,ch,x,az-ch,AZ,D
+01/28/2017,New Mexico Socorro,New Mexico,Qualifying Tournament,1,nm,so,x,nm-so,NM,D
+01/28/2017,North Carolina Southern Guilford,North Carolina,Qualifying Tournament,1,nc,sg,x,nc-sg,NC,D
+02/04/2017,North Carolina Northern Guilford,North Carolina,Qualifying Tournament,1,nc,ng,x,nc-ng,NC,D
+02/04/2017,North Carolina Charlotte,North Carolina,Qualifying Tournament,1,nc,ch,x,nc-ch,NC,D
+02/04/2017,California SD Gauss ILT,California SD,League Championship,1,casd,gilt,x,casd-gilt,CA,D
+02/04/2017,Iowa John Deere Super-Qualifier,Iowa,Super-Qualifier,1,io,jdsq,x,io-jdsq,IO,D
+02/04/2017,Iowa Western Iowa Tech CC Super-Qualifier,Iowa,Super-Qualifier,1,io,wisq,x,io-wisq,IO,D
 10/21/2016,Alaska East Anchorage,Alaska,Qualifying Tournament,1,ak,ea,x,ak-ea,AK,R
 10/28/2016,Alaska Dimond,Alaska,Qualifying Tournament,1,ak,di,x,ak-di,AK,R
 11/01/2016,Alaska East,Alaska,Qualifying Tournament,1,ak,ea2,x,ak-ea2,AK,R
@@ -126,10 +141,7 @@
 02/10/2017,Minnesota Championship,Minnesota,Qualifying Tournament,1,mn,cmp,x,mn-cmp,MN,R
 01/14/2017,North Carolina Raleigh,North Carolina,Qualifying Tournament,1,nc,ra,x,nc-ra,NC,R
 01/21/2017,North Carolina Boone,North Carolina,Qualifying Tournament,1,nc,bo,x,nc-bo,NC,D
-01/28/2017,North Carolina Southern Guilford,North Carolina,Qualifying Tournament,1,nc,sg,x,nc-sg,NC,D
 01/28/2017,North Carolina Durham,North Carolina,Qualifying Tournament,1,nc,du,x,nc-du,NC,D
-02/04/2017,North Carolina Northern Guilford,North Carolina,Qualifying Tournament,1,nc,ng,x,nc-ng,NC,D
-02/04/2017,North Carolina Charlotte,North Carolina,Qualifying Tournament,1,nc,ch,x,nc-ch,NC,D
 11/19/2016,Oregon SOAR 1,Oregon,Meet,1,or,so1,x,or-so1,OR,R
 11/17/2016,Oregon Portland 1,Oregon,Meet,1,or,po1,x,or-po1,OR,R
 12/02/2016,Oregon Portland 2,Oregon,Meet,1,or,po2,x,or-po2,OR,R
@@ -160,10 +172,6 @@
 12/03/2016,West Virginia Championship,West Virginia,Championship Tournament,1,wv,cmp,x,wv-cmp,WV,R
 12/17/2016,California LA F2 M1,California LA ,Meet,1,cala,f2m1,x,cala-f2m1,CA,R
 02/04/2017,Delaware Championship,Delaware,Championship Tournament,1,de,cmp,x,de-cmp,DE,D
-12/11/2016,Maryland District of Columbia 2,Maryland,Qualifying Tournament,1,md,dc2,x,md-dc2,MD,R
-01/22/2017,Maryland Annapolis 2,Maryland,Qualifying Tournament,1,md,an2,x,md-an2,MD,R
-01/29/2017,Maryland Howard,Maryland,Qualifying Tournament,1,md,ho,x,md-ho,MD,R
-02/04/2017,Maryland Prince George,Maryland,Qualifying Tournament,1,md,pg,x,md-pg,MD,R
 11/12/2016,Illinois Chicago Central M1,Illinois,Meet,1,il,cc1,x,il-cc1,IL,D
 11/05/2016,Illinois Chicago North M1,Illinois,Meet,1,il,cn1,x,il-cn1,IL,D
 11/19/2016,Illinois Chicago South M1,Illinois,Meet,1,il,cs1,x,il-cs1,IL,D
