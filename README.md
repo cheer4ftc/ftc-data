@@ -14,7 +14,7 @@ See KEYSTATS.md and KEYRAW.md for descriptions of the corresponding file formats
 - [FTCRoot](http://www.ftcroot.com) :
     Event scores, Team match scores
 - [FTCStats](http://ftcstats.org/) :
-    Stats by team and event
+    Stats by team, event, and state
 - [Missouri FTC Scores](http://moftcscores.net/) :
     Comprehensive event results for the Missouri region only
 
