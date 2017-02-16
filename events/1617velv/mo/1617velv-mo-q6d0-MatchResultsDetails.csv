@@ -1,4 +1,4 @@
-TournamentMatchCode,Match,Result,Red1,Red2,Red3,Blue1,Blue2,Blue3,RTot,RAuto,RAutoB,RTele,REnd,RPen,BTot,BAuto,BAutoB,BTele,BEnd,BPen,
-1617velv-mo-q6d0-F-1,F-1,130-100 R,7209,6073,3591,406,7547,3665,130,70,0,40,20,0,100,40,0,60,0,0,
-1617velv-mo-q6d0-F-2,F-2,70-75 B,7209,6073,3591,406,7547,3665,70,50,0,20,0,0,75,0,0,75,0,0,
-1617velv-mo-q6d0-F-3,F-3,150-125 R,7209,6073,3591,406,7547,3665,150,70,0,60,20,0,125,40,0,45,40,0,
+TournamentMatchCode,Match,Result,Red1,Red2,Red3,Blue1,Blue2,Blue3,RTot,RAuto,RAutoB,RTele,REnd,RPen,BTot,BAuto,BAutoB,BTele,BEnd,BPen,R1Sur,R2Sur,B1Sur,B2Sur,
+1617velv-mo-q6d0-F-1,F-1,130-100 R,7209,6073,3591,406,7547,3665,130,70,0,40,20,0,100,40,0,60,0,0,false,false,false,false,
+1617velv-mo-q6d0-F-2,F-2,70-75 B,7209,6073,3591,406,7547,3665,70,50,0,20,0,0,75,0,0,75,0,0,false,false,false,false,
+1617velv-mo-q6d0-F-3,F-3,150-125 R,7209,6073,3591,406,7547,3665,150,70,0,60,20,0,125,40,0,45,40,0,false,false,false,false,
