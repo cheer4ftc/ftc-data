@@ -66,7 +66,7 @@
 01/14/2017,New York HV Albany ,New York HV,Qualifying Tournament,1,nyhv,al,x,nyhv-al,NY,D
 01/07/2017,Iowa Western Iowa Tech CC League Championship,Iowa,League Championship,1,io,wlcmp,x,io-wlcmp,IO,D
 01/08/2017,New York LI Lynbrook,New York LI,Qualifying Tournament,1,nyli,ly,x,nyli-ly,NY,D
-01/15/2017,New York LI Center Moriches,New York LI,Qualifying Tournament,1,nyli,cmp,x,nyli-cmp,NY,D
+01/15/2017,New York LI Center Moriches,New York LI,Qualifying Tournament,1,nyli,cm,x,nyli-cm,NY,D
 01/21/2017,Colorado East Metro,Colorado,Qualifying Tournament,1,co,em,x,co-em,CO,D
 01/21/2017,Colorado Northern,Colorado,Qualifying Tournament,1,co,no,x,co-no,CO,D
 01/21/2017,Louisiana New Orleans,Louisiana,Qualifying Tournament,1,la,no,x,la-no,LA,D
@@ -120,6 +120,25 @@
 02/04/2017,California SD Gauss ILT,California SD,League Championship,1,casd,gilt,x,casd-gilt,CA,D
 02/04/2017,Iowa John Deere Super-Qualifier,Iowa,Super-Qualifier,1,io,jdsq,x,io-jdsq,IO,D
 02/04/2017,Iowa Western Iowa Tech CC Super-Qualifier,Iowa,Super-Qualifier,1,io,wisq,x,io-wisq,IO,D
+02/11/2017,Texas WP Lubbock League Championship,Texas WP,League Championship,1,txwp,llcmp,x,txwp-llcmp,TX,D
+01/28/2017,Texas SE Houston League Championship,Texas SE,League Championship,1,txse,hlcmp,x,txse-hlcmp,TX,D
+02/11/2017,Massachusetts Twister on Lowder Street,Massachusetts,Qualifying Tournament,1,ma,tl,x,ma-tl,MA,D
+02/04/2017,California SD Descartes ILT ,California SD,League Championship,1,casd,dilt,x,casd-dilt,CA,D
+02/04/2017,Texas NO Citrine League Championship,Texas NO,League Championship,1,txno,clcmp,x,txno-clcmp,TX,D
+02/11/2017,Idaho Championship,Idaho,Championship Tournament,1,id,cmp,x,id-cmp,ID,D
+01/27/2017,Montana Championship,Montana,Championship Tournament,1,mt,cmp,x,mt-cmp,MT,D
+02/12/2017,Maryland Championship Goddard D1,Maryland,Championship Tournament,1,md,cmpd1,x,md-cmpd1,MD,D
+02/12/2017,Maryland Championship Hubble D2,Maryland,Championship Tournament,2,md,cmpd2,x,md-cmpd2,MD,D
+02/05/2017,New York HV Championship,New York HV,Championship Tournament,1,nyhv,cmp,x,nyhv-cmp,NY,D
+02/12/2017,New York EX Championship,New York EX,Championship Tournament,1,nyex,cmp,x,nyex-cmp,NY,D
+02/11/2017,Ohio Championship,Ohio,Championship Tournament,1,oh,cmp,x,oh-cmp,OH,D
+02/11/2017,New York LI Championship,New York LI,Championship Tournament,1,nyli,cmp,x,nyli-cmp,NY,D
+02/04/2017,Kentucky Championship,Kentucky,Championship Tournament,1,ky,cmp,x,ky-cmp,KY,D
+02/11/2017,South Carolina Championship,South Carolina,Championship Tournament,1,sc,cmp,x,sc-cmp,SC,D
+02/11/2017,Vermont Championship,Vermont,Championship Tournament,1,vt,cmp,x,vt-cmp,VT,D
+02/11/2017,Louisiana Baton Rouge,Louisiana,Qualifying Tournament,1,la,br,x,la-br,LA,D
+02/11/2017,Arizona Goodyear,Arizona,Qualifying Tournament,1,az,go,x,az-go,AZ,D
+02/11/2017,Iowa Pleasant Valley Super-Qualifier,Iowa,Super-Qualifier,1,io,pvsq,x,io-pvsq,IO,D
 10/21/2016,Alaska East Anchorage,Alaska,Qualifying Tournament,1,ak,ea,x,ak-ea,AK,R
 10/28/2016,Alaska Dimond,Alaska,Qualifying Tournament,1,ak,di,x,ak-di,AK,R
 11/01/2016,Alaska East,Alaska,Qualifying Tournament,1,ak,ea2,x,ak-ea2,AK,R
@@ -172,7 +191,6 @@
 12/03/2016,West Virginia Championship,West Virginia,Championship Tournament,1,wv,cmp,x,wv-cmp,WV,R
 12/17/2016,California LA F2 M1,California LA ,Meet,1,cala,f2m1,x,cala-f2m1,CA,R
 02/04/2017,Delaware Championship,Delaware,Championship Tournament,1,de,cmp,x,de-cmp,DE,D
-02/05/2017,New York HV Championship,New York HV,Championship Tournament,1,nyhv,cmp,x,nyhv-cmp,NY,D
 11/12/2016,Illinois Chicago Central M1,Illinois,Meet,1,il,cc1,x,il-cc1,IL,D
 11/05/2016,Illinois Chicago North M1,Illinois,Meet,1,il,cn1,x,il-cn1,IL,D
 11/19/2016,Illinois Chicago South M1,Illinois,Meet,1,il,cs1,x,il-cs1,IL,D
