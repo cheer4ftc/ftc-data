@@ -261,8 +261,8 @@
 01/28/2017,Virginia Southwest,Virginia,Qualifier,1,va,sw,x,va-sw,VA,D
 02/04/2017,Virginia Eastern D1,Virginia,Qualifier,1,va,ead1,1,va-ead1,VA,D
 02/04/2017,Virginia Eastern D2,Virginia,Qualifier,1,va,ead2,2,va-ead2,VA,D
-02/25/2017,Virginia Championship D1,Virginia,Championship,1,va,cmpd1,1,va-cmpd1,VA,D
-02/25/2017,Virginia Championship D2,Virginia,Championship,2,va,cmpd2,2,va-cmpd2,VA,D
+02/25/2017,Virginia Championship Flowers D1,Virginia,Championship,1,va,cmpd1,1,va-cmpd1,VA,D
+02/25/2017,Virginia Championship Kamen D2,Virginia,Championship,2,va,cmpd2,2,va-cmpd2,VA,D
 12/17/2016,California LA A1 M1,California LA ,Meet,1,cala,a1m1,x,cala-a1m1,CA,D
 01/07/2017,California LA A1 M1,California LA ,Meet,1,cala,a1m2,x,cala-a1m2,CA,D
 01/21/2017,California LA A1 M3,California LA ,Meet,1,cala,a1m3,x,cala-a1m3,CA,D
@@ -307,6 +307,8 @@
 01/14/2017,California LA I M1,California LA ,Meet,1,cala,im1,x,cala-im1,CA,D
 01/21/2017,California LA I M2,California LA ,Meet,1,cala,im2,x,cala-im2,CA,D
 01/28/2017,California LA I M3,California LA ,Meet,1,cala,im3,x,cala-im3,CA,D
+02/26/2017,California LA Championship Orange D1,California LA ,Championship,1,cala,cmpd1,x,cala-cmpd1,CA,D
+02/26/2017,California LA Championship Green D2,California LA ,Championship,2,cala,cmpd2,x,cala-cmpd2,CA,D
 10/29/2016,Missouri M1 Octobo-Robo Fest,Missouri,Meet,1,mo,m1,x,mo-m1,MO,D
 11/05/2016,Missouri M2 Vive Velocity Vortex!,Missouri,Meet,1,mo,m2,x,mo-m2,MO,D
 11/12/2016,Missouri M3 Gator,Missouri,Meet,1,mo,m3,x,mo-m3,MO,D
@@ -399,9 +401,9 @@
 12/10/2016,Michigan Concord,Michigan,Qualifier,1,mi,con,x,mi-con,MI,D
 12/10/2016,Michigan Kentwood,Michigan,Qualifier,1,mi,kent,x,mi-kent,MI,D
 12/10/2016,Michigan Detroit,Michigan,Qualifier,1,mi,det,x,mi-det,MI,D
-12/17/2016,Michigan Championship Edison,Michigan,Championship,1,mi,cmpd1,d1,mi-cmpd1,MI,D
-12/17/2016,Michigan Championship Franklin,Michigan,Championship,2,mi,cmpd2,d2,mi-cmpd2,MI,D
-12/17/2016,Michigan Championship Finals,Michigan,Championship,0,mi,cmpd0,d0,mi-cmpd0,MI,D
+12/17/2016,Michigan Championship Edison D1,Michigan,Championship,1,mi,cmpd1,d1,mi-cmpd1,MI,D
+12/17/2016,Michigan Championship Franklin D2,Michigan,Championship,2,mi,cmpd2,d2,mi-cmpd2,MI,D
+12/17/2016,Michigan Championship Finals D0,Michigan,Championship,0,mi,cmpd0,d0,mi-cmpd0,MI,D
 12/17/2016,Ohio Van Wert,Ohio,Qualifier,1,oh,vw,x,oh-vw,OH,D
 01/21/2017,Oregon Capitol,Oregon,Qualifier,1,or,ca,x,or-ca,OR,D
 01/21/2017,Oregon Central,Oregon,Qualifier,1,or,ce,x,or-ce,OR,D
@@ -438,8 +440,8 @@
 02/11/2017,Oregon Pi Super-Qualifier,Oregon,Super-Qualifier,1,or,psq,x,or-psq,OR,D
 02/12/2017,Oregon Omega Super-Qualifier,Oregon,Super-Qualifier,1,or,osq,x,or-osq,OR,D
 02/26/2017,Oregon Championship Tech D1,Oregon,Championship,1,or,cmpd1,x,or-cmpd1,OR,D
-02/26/2017,Oregon Championship Timber D2,Oregon,Championship,1,or,cmpd2,x,or-cmpd2,OR,D
-02/26/2017,Oregon Championship Finals D0,Oregon,Championship,1,or,cmpd0,x,or-cmpd0,OR,D
+02/26/2017,Oregon Championship Timber D2,Oregon,Championship,2,or,cmpd2,x,or-cmpd2,OR,D
+02/26/2017,Oregon Championship Finals D0,Oregon,Championship,0,or,cmpd0,x,or-cmpd0,OR,D
 02/11/2017,Utah Championship,Utah,Championship,1,ut,cmp,x,ut-cmp,UT,D
 01/28/2017,Wisconsin Fox Valley,Wisconsin,Qualifier,1,wi,fv,x,wi-fv,WI,D
 01/08/2017,Wisconsin Milwaukee,Wisconsin,Qualifier,1,wi,mi,x,wi-mi,WI,D
