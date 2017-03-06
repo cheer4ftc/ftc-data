@@ -167,7 +167,7 @@ ftc3101,Boom Bots,3101,Palm Harbor,FL,34683,USA,http://www.firstinspires.org/tea
 ftc3113,Some Disassembly Required,3113,Ellicott City,MD,21042,USA,http://www.firstinspires.org/team-event-search/team?id=527713
 ftc3116,Robo Warriors,3116,Richmond,VA,23227,USA,http://www.firstinspires.org/team-event-search/team?id=527715
 ftc3123,Spontaneous Combustion,3123,Seminole,FL,33776,USA,http://www.firstinspires.org/team-event-search/team?id=527717
-ftc3141,Bears,3141,Mexico City,DIF,01050,Mexico,http://www.firstinspires.org/team-event-search/team?id=527723
+ftc3141,Bears,3141,Mexico City,DIF,1050,Mexico,http://www.firstinspires.org/team-event-search/team?id=527723
 ftc3149,SWAT-bots,3149,San Anselmo,CA,94960,USA,http://www.firstinspires.org/team-event-search/team?id=527727
 ftc3188,Squiggle Splat Bang,3188,Powell,WY,82435,USA,http://www.firstinspires.org/team-event-search/team?id=527731
 ftc3208,Rocket 4.0,3208,Anchorage,AK,99502,USA,http://www.firstinspires.org/team-event-search/team?id=527733
@@ -750,6 +750,7 @@ ftc5809,Dark Horse,5809,Austin,TX,78753,USA,http://www.firstinspires.org/team-ev
 ftc5815,Disgruntled Robots,5815,Austin,TX,78749,USA,http://www.firstinspires.org/team-event-search/team?id=529161
 ftc5827,Robo Hazard,5827,Hemet,CA,92543,USA,http://www.firstinspires.org/team-event-search/team?id=529163
 ftc5828,E.M.P. Chaos,5828,Hemet,CA,92543,USA,http://www.firstinspires.org/team-event-search/team?id=529165
+ftc5843,AutoVortex,5843,Voluntari,RO,77190,Romania,
 ftc5862,TechnoTigers,5862,Newtown Square,PA,19073,USA,http://www.firstinspires.org/team-event-search/team?id=529171
 ftc5872,MAVERICS,5872,Chantilly,VA,20151,USA,http://www.firstinspires.org/team-event-search/team?id=529173
 ftc5873,Dragon Terminators,5873,Summit,NJ,7901,USA,http://www.firstinspires.org/team-event-search/team?id=529175
@@ -1919,7 +1920,7 @@ ftc8894,Class 7,8894,Newhall,CA,91381,USA,http://www.firstinspires.org/team-even
 ftc8897,Berchmans Saints,8897,Grand Coteau,LA,70541,USA,http://www.firstinspires.org/team-event-search/team?id=532083
 ftc8898,Iolani,8898,Honolulu,HI,96826,USA,http://www.firstinspires.org/team-event-search/team?id=532085
 ftc8899,EP Robo Raiders,8899,East Peoria,IL,61611,USA,http://www.firstinspires.org/team-event-search/team?id=532087
-ftc8902,Cosmic Goose,8902,Glen Rock,NJ,07452,USA,http://www.firstinspires.org/team-event-search/team?id=532089
+ftc8902,Cosmic Goose,8902,Glen Rock,NJ,7452,USA,http://www.firstinspires.org/team-event-search/team?id=532089
 ftc8904,Bearded WarTeutles,8904,Hinton,IA,51024,USA,http://www.firstinspires.org/team-event-search/team?id=532091
 ftc8905,Statesbots- Orange,8905,Webster Groves,MO,63119,USA,http://www.firstinspires.org/team-event-search/team?id=532093
 ftc8906,ROARbots,8906,San Diego,CA,92123,USA,http://www.firstinspires.org/team-event-search/team?id=532095
@@ -2686,7 +2687,7 @@ ftc10315,Tech Hawks,10315,Grand Rapids,MI,49504,USA,http://www.firstinspires.org
 ftc10318,Ramroids,10318,Temple City,CA,91780,USA,http://www.firstinspires.org/team-event-search/team?id=534157
 ftc10319,Shawmut Hills,10319,Grand Rapids,MI,49504,USA,http://www.firstinspires.org/team-event-search/team?id=534159
 ftc10320,Underdogs,10320,Folsom,CA,95630,USA,http://www.firstinspires.org/team-event-search/team?id=534161
-ftc10321,Shtark Enterprises,10321,Brookline,MA,02145,USA,http://www.firstinspires.org/team-event-search/team?id=534163
+ftc10321,Shtark Enterprises,10321,Brookline,MA,2145,USA,http://www.firstinspires.org/team-event-search/team?id=534163
 ftc10322,Shark Byte,10322,Brooklyn,NY,11230,USA,http://www.firstinspires.org/team-event-search/team?id=534165
 ftc10323,Robot Rams,10323,Jamestown,OH,45335,USA,http://www.firstinspires.org/team-event-search/team?id=534167
 ftc10325,Wolvo-Bot,10325,Lethbridge,AB,T1H1J3,Canada,http://www.firstinspires.org/team-event-search/team?id=534171
@@ -4553,7 +4554,7 @@ ftc12461,Mustang Robotics,12461,Clio,MI,48420,USA,http://www.firstinspires.org/t
 ftc12462,Lejeune 1,12462,Camp Lejeune,NC,28547,USA,http://www.firstinspires.org/team-event-search/team?id=669497
 ftc12463,KKST-2-RoboCats,12463,Stuttgart,BW,70173,Germany,http://www.firstinspires.org/team-event-search/team?id=673637
 ftc12464,center moriches middle school 2,12464,Center Moriches,NY,11934,USA,http://www.firstinspires.org/team-event-search/team?id=669709
-ftc12465,RoboCats,12465,Chestnut Hill,MA,02467,USA,http://www.firstinspires.org/team-event-search/team?id=673451
+ftc12465,RoboCats,12465,Chestnut Hill,MA,2467,USA,http://www.firstinspires.org/team-event-search/team?id=673451
 ftc12466,IDA MS LIGHTNING ENGINEERS,12466,Ida,MI,48140,USA,http://www.firstinspires.org/team-event-search/team?id=673669
 ftc12467,Earhart Aviators,12467,Detroit,MI,48209,USA,http://www.firstinspires.org/team-event-search/team?id=669191
 ftc12468,TheIncredibles,12468,Sewickley,PA,15143,USA,http://www.firstinspires.org/team-event-search/team?id=673679
