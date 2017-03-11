@@ -20,4 +20,4 @@ See KEYSTATS.md and KEYRAW.md for descriptions of the corresponding file formats
 
 ## 2016-17 season
 
-- Contains results from 51 regions and 420 events as of 2/17/17
+- Contains results from 55 regions and over 450 events as of 3/11/17
